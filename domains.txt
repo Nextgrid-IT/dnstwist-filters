@@ -1,0 +1,77 @@
+# === 🛠️ Tech & Cloud ===
+google.com
+gmail.com
+youtube.com
+facebook.com
+instagram.com
+whatsapp.com
+apple.com
+icloud.com
+microsoft.com
+live.com
+outlook.com
+office.com
+dropbox.com
+
+# === 💳 Banking & Finance ===
+paypal.com
+chase.com
+bankofamerica.com
+wellsfargo.com
+capitalone.com
+citi.com
+americanexpress.com
+venmo.com
+stripe.com
+coinbase.com
+binance.com
+
+# === 🎬 Streaming & Media ===
+netflix.com
+hulu.com
+disneyplus.com
+primevideo.com
+hbomax.com
+paramountplus.com
+peacocktv.com
+tubi.tv
+spotify.com
+pandora.com
+soundcloud.com
+
+# === 🛒 Online Retailers ===
+amazon.com
+ebay.com
+walmart.com
+target.com
+bestbuy.com
+aliexpress.com
+etsy.com
+costco.com
+homedepot.com
+
+# === 🚚 Delivery & Travel ===
+ups.com
+fedex.com
+dhl.com
+usps.com
+uber.com
+lyft.com
+airbnb.com
+booking.com
+expedia.com
+
+# === 📧 Communications & Tools ===
+zoom.us
+slack.com
+skype.com
+telegram.org
+discord.com
+teams.microsoft.com
+
+# === 🧠 Education & Search ===
+wikipedia.org
+khanacademy.org
+coursera.org
+edx.org
+quora.com

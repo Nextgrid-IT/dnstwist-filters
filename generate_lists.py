@@ -3,6 +3,8 @@ import subprocess
 import json
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
+import builtins
+print = lambda *args, **kwargs: builtins.print(*args, **kwargs, flush=True)
 
 REPO_URL = "https://raw.githubusercontent.com/sparksbenjamin/dnstwist-filters/main"
 INPUT_FILE = "domains.txt"
@@ -21,6 +23,7 @@ def run_dnstwist(domain):
         print(f"[{start.isoformat()}] → Starting {domain}")
         result = subprocess.run(
             ["dnstwist", "--nameservers", DNS_SERVERS, "--registered", "--format", "json", domain],
+            #["python", "-m","dnstwist", "--nameservers", DNS_SERVERS, "--registered", "--format", "json", domain],
             capture_output=True,
             text=True,
             timeout=120  # Reduced timeout

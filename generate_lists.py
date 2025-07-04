@@ -22,7 +22,8 @@ def run_dnstwist(domain):
         start = datetime.now()
         print(f"[{start.isoformat()}] → Starting {domain}")
         result = subprocess.run(
-            ["dnstwist", "--nameservers", DNS_SERVERS, "--registered", "--format", "json", domain],
+            #["dnstwist", "--nameservers", DNS_SERVERS, "--registered", "--format", "json", domain],
+            ["dnstwist", "--registered", "--format", "json", domain],
             #["python", "-m","dnstwist", "--nameservers", DNS_SERVERS, "--registered", "--format", "json", domain],
             capture_output=True,
             text=True,

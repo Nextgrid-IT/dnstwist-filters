@@ -28,6 +28,10 @@ jobs:
       - name: Run domain generator
         run: python generate_lists.py
 
+      - name: Combine all domain files into one
+        run: |
+          cat domains/*.txt | sort -u > all_domains.txt
+
       - name: Configure Git for push
         run: |
           git config user.name "github-actions[bot]"

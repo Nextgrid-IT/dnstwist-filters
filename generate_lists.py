@@ -6,7 +6,7 @@ from datetime import datetime
 import builtins
 print = lambda *args, **kwargs: builtins.print(*args, **kwargs, flush=True)
 
-REPO_URL = "https://raw.githubusercontent.com/sparksbenjamin/dnstwist-filters/main"
+REPO_URL = "https://raw.githubusercontent.com/Nextgrid-IT/dnstwist-filters/main"
 INPUT_FILE = "domains.txt"
 OUTPUT_DIR = "domains"
 README_FILE = "README.md"
@@ -51,7 +51,7 @@ def save_blocklist(domain, entries):
 def update_readme(domains):
     header = """# DNS Threat Lists
 
-These lists are automatically generated using [dnstwist](https://github.com/dnstwist/dnstwist)
+These lists are automatically generated using [dnstwist](https://github.com/elceef/dnstwist)
 to detect typosquatting and lookalike phishing domains.
 
 ## ✅ Usage with Pi-hole or AdGuard
@@ -59,8 +59,8 @@ to detect typosquatting and lookalike phishing domains.
 Paste any of the raw list URLs below into your blocklist settings.
 
 ## Single File
-To use just a single file you can import one list 
-https://raw.githubusercontent.com/sparksbenjamin/dnstwist-filters/main/all_domains.txt
+To use just a single file you can import the All in one list. 
+https://raw.githubusercontent.com/Nextgrid-IT/dnstwist-filters/main/all_domains.txt
 
 ## 📄 Available Blocklists
 """

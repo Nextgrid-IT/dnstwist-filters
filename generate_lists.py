@@ -4,11 +4,12 @@ import json
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
 
-REPO_URL = "https://raw.githubusercontent.com/YOUR_USERNAME/dns-threat-lists/main"
+REPO_URL = "https://raw.githubusercontent.com/sparksbenjamin/dnstwist-filters/main"
 INPUT_FILE = "domains.txt"
 OUTPUT_DIR = "domains"
 README_FILE = "README.md"
 MAX_WORKERS = int(os.getenv("MAX_WORKERS", 4))  # Safe default for GitHub Actions
+DNS_SERVERS = "1.1.1.1,8.8.8.8"
 
 def read_watchlist(file_path):
     with open(file_path, "r") as f:
@@ -16,15 +17,15 @@ def read_watchlist(file_path):
 
 def run_dnstwist(domain):
     try:
-        start = datetime.utcnow()
+        start = datetime.now()
         print(f"[{start.isoformat()}] → Starting {domain}")
         result = subprocess.run(
-            ["dnstwist", "--registered", "--format", "json", domain],
+            ["dnstwist", "--nameservers", DNS_SERVERS, "--registered", "--format", "json", domain],
             capture_output=True,
             text=True,
             timeout=120  # Reduced timeout
         )
-        end = datetime.utcnow()
+        end = datetime.now()
         print(f"[{end.isoformat()}] ✓ Finished {domain} in {(end - start).seconds}s")
 
         if result.returncode != 0:
@@ -71,7 +72,7 @@ Edit `domains.txt` and commit your changes. GitHub Actions will automatically re
 ## ⏱️ This file is auto-updated weekly.
 """
 
-    with open(README_FILE, "w") as f:
+    with open(README_FILE, "w", encoding="utf-8") as f:
         f.write(header + "\n".join(entries) + footer)
     print("📝 README.md updated.")
 
@@ -81,7 +82,7 @@ def process_domain(domain):
     if isinstance(result, Exception):
         return domain, []
 
-    active_domains = [r["domain-name"] for r in result if r.get("dns-a")]
+    active_domains = [r["domain"] for r in result if r.get("dns_a")]
     save_blocklist(domain, active_domains)
     return domain, active_domains
 

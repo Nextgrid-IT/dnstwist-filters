@@ -6,8 +6,8 @@
 0.0.0.0 wellsfargo5.com
 0.0.0.0 wellsfargol.com
 0.0.0.0 wellsfargos.com
-0.0.0.0 wellsfargon.com
 0.0.0.0 wellsfargot.com
+0.0.0.0 wellsfargon.com
 0.0.0.0 wellsfargoc.com
 0.0.0.0 wellsfargod.com
 0.0.0.0 wellsfargoo.com
@@ -23,6 +23,7 @@
 0.0.0.0 wellsfergo.com
 0.0.0.0 wellsgargo.com
 0.0.0.0 wellsfarco.com
+0.0.0.0 wellsbargo.com
 0.0.0.0 7ellsfargo.com
 0.0.0.0 gellsfargo.com
 0.0.0.0 sellsfargo.com
@@ -58,7 +59,6 @@
 0.0.0.0 wenlsfargo.com
 0.0.0.0 wgllsfargo.com
 0.0.0.0 wmllsfargo.com
-0.0.0.0 wellsbargo.com
 0.0.0.0 weilsfargo.com
 0.0.0.0 vvellsfarqo.com
 0.0.0.0 xn--ellsfargo-923d.com
@@ -96,8 +96,9 @@
 0.0.0.0 wellsfartgo.com
 0.0.0.0 wellsfatrgo.com
 0.0.0.0 wellsfargbo.com
+0.0.0.0 welolsfargo.com
+0.0.0.0 wrellsfargo.com
 0.0.0.0 wellsfargvo.com
-0.0.0.0 we4llsfargo.com
 0.0.0.0 wellesfargo.com
 0.0.0.0 wellsafargo.com
 0.0.0.0 wellsgfargo.com
@@ -108,9 +109,8 @@
 0.0.0.0 wellsfazrgo.com
 0.0.0.0 wqellsfargo.com
 0.0.0.0 wellswfargo.com
-0.0.0.0 welolsfargo.com
-0.0.0.0 wrellsfargo.com
 0.0.0.0 wellsfsargo.com
+0.0.0.0 we4llsfargo.com
 0.0.0.0 wellsfawrgo.com
 0.0.0.0 we3llsfargo.com
 0.0.0.0 wellsfafrgo.com
@@ -168,18 +168,17 @@
 0.0.0.0 wellscargo.com
 0.0.0.0 2ellsfargo.com
 0.0.0.0 3ellsfargo.com
-0.0.0.0 wellsfwrgo.com
 0.0.0.0 wellafargo.com
 0.0.0.0 wellsfaego.com
 0.0.0.0 wellsfargp.com
 0.0.0.0 wellsfatgo.com
 0.0.0.0 wellsfsrgo.com
 0.0.0.0 wellsfafgo.com
-0.0.0.0 wellsfadgo.com
-0.0.0.0 wellsfarbo.com
 0.0.0.0 wellxfargo.com
+0.0.0.0 wellsfwrgo.com
 0.0.0.0 weklsfargo.com
 0.0.0.0 welosfargo.com
+0.0.0.0 wellsfadgo.com
 0.0.0.0 eellsfargo.com
 0.0.0.0 w3llsfargo.com
 0.0.0.0 welksfargo.com
@@ -195,6 +194,7 @@
 0.0.0.0 wrllsfargo.com
 0.0.0.0 wellsfa5go.com
 0.0.0.0 wellsfargl.com
+0.0.0.0 wellsfarbo.com
 0.0.0.0 qellsfargo.com
 0.0.0.0 well.sfargo.com
 0.0.0.0 wel.lsfargo.com

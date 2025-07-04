@@ -14,8 +14,8 @@
 0.0.0.0 citis.com
 0.0.0.0 citi7.com
 0.0.0.0 citi9.com
-0.0.0.0 citig.com
 0.0.0.0 citim.com
+0.0.0.0 citig.com
 0.0.0.0 citi1.com
 0.0.0.0 citia.com
 0.0.0.0 citic.com
@@ -91,13 +91,13 @@
 0.0.0.0 cifti.com
 0.0.0.0 ciyti.com
 0.0.0.0 cuiti.com
+0.0.0.0 cit.com
 0.0.0.0 cti.com
 0.0.0.0 iti.com
-0.0.0.0 cit.com
 0.0.0.0 cii.com
-0.0.0.0 cciti.com
 0.0.0.0 citti.com
 0.0.0.0 ciiti.com
+0.0.0.0 cciti.com
 0.0.0.0 ci6i.com
 0.0.0.0 cifi.com
 0.0.0.0 ciyi.com

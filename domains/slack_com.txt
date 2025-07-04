@@ -78,7 +78,6 @@
 0.0.0.0 s.lack.com
 0.0.0.0 slakc.com
 0.0.0.0 lsack.com
-0.0.0.0 salck.com
 0.0.0.0 slcak.com
 0.0.0.0 slackcom.com
 0.0.0.0 sluck.com

@@ -1,5 +1,4 @@
 0.0.0.0 amazon.com
-0.0.0.0 amazona.com
 0.0.0.0 amazon9.com
 0.0.0.0 amazon1.com
 0.0.0.0 amazon2.com
@@ -23,6 +22,7 @@
 0.0.0.0 amazonw.com
 0.0.0.0 amazonx.com
 0.0.0.0 amazony.com
+0.0.0.0 amazona.com
 0.0.0.0 amazon0.com
 0.0.0.0 amazon3.com
 0.0.0.0 amazon4.com
@@ -197,7 +197,6 @@
 0.0.0.0 amzaon.com
 0.0.0.0 maazon.com
 0.0.0.0 amaozn.com
-0.0.0.0 omazon.com
 0.0.0.0 amazun.com
 0.0.0.0 amozon.com
 0.0.0.0 amuzon.com

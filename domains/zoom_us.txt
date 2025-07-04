@@ -88,12 +88,12 @@
 0.0.0.0 uoom.us
 0.0.0.0 hoom.us
 0.0.0.0 zoop.us
+0.0.0.0 eoom.us
 0.0.0.0 z9om.us
 0.0.0.0 goom.us
 0.0.0.0 zook.us
 0.0.0.0 qoom.us
 0.0.0.0 soom.us
-0.0.0.0 eoom.us
 0.0.0.0 toom.us
 0.0.0.0 3oom.us
 0.0.0.0 z.oom.us

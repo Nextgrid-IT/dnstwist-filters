@@ -60,8 +60,6 @@
 0.0.0.0 zhulu.com
 0.0.0.0 humlu.com
 0.0.0.0 huzlu.com
-0.0.0.0 hu8lu.com
-0.0.0.0 yhulu.com
 0.0.0.0 uhulu.com
 0.0.0.0 bhulu.com
 0.0.0.0 ghulu.com
@@ -75,7 +73,9 @@
 0.0.0.0 hyulu.com
 0.0.0.0 jhulu.com
 0.0.0.0 huplu.com
+0.0.0.0 yhulu.com
 0.0.0.0 hujlu.com
+0.0.0.0 hu8lu.com
 0.0.0.0 hbulu.com
 0.0.0.0 huilu.com
 0.0.0.0 hulku.com
@@ -92,6 +92,7 @@
 0.0.0.0 hupu.com
 0.0.0.0 huli.com
 0.0.0.0 huou.com
+0.0.0.0 bulu.com
 0.0.0.0 hul8.com
 0.0.0.0 hulj.com
 0.0.0.0 uulu.com

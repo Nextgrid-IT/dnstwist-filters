@@ -88,7 +88,6 @@
 0.0.0.0 lkive.com
 0.0.0.0 plive.com
 0.0.0.0 lijve.com
-0.0.0.0 likve.com
 0.0.0.0 livbe.com
 0.0.0.0 libve.com
 0.0.0.0 li9ve.com
@@ -96,6 +95,7 @@
 0.0.0.0 lifve.com
 0.0.0.0 mlive.com
 0.0.0.0 livfe.com
+0.0.0.0 likve.com
 0.0.0.0 lie.com
 0.0.0.0 ive.com
 0.0.0.0 liv.com

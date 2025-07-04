@@ -1,4 +1,5 @@
 0.0.0.0 chase.com
+0.0.0.0 chase0.com
 0.0.0.0 chasee.com
 0.0.0.0 chasef.com
 0.0.0.0 chaseb.com
@@ -20,6 +21,7 @@
 0.0.0.0 chasek.com
 0.0.0.0 chase4.com
 0.0.0.0 chasew.com
+0.0.0.0 chasem.com
 0.0.0.0 chasey.com
 0.0.0.0 chase2.com
 0.0.0.0 chase8.com
@@ -27,7 +29,6 @@
 0.0.0.0 chasex.com
 0.0.0.0 chase3.com
 0.0.0.0 chasel.com
-0.0.0.0 chasem.com
 0.0.0.0 shase.com
 0.0.0.0 chqse.com
 0.0.0.0 chese.com
@@ -74,17 +75,15 @@
 0.0.0.0 chaxse.com
 0.0.0.0 chwase.com
 0.0.0.0 cbhase.com
-0.0.0.0 chzase.com
 0.0.0.0 cha1se.com
-0.0.0.0 cvhase.com
 0.0.0.0 cha2se.com
 0.0.0.0 cdhase.com
 0.0.0.0 chaese.com
 0.0.0.0 chazse.com
 0.0.0.0 fchase.com
-0.0.0.0 cjhase.com
+0.0.0.0 chzase.com
+0.0.0.0 cvhase.com
 0.0.0.0 chuase.com
-0.0.0.0 cnhase.com
 0.0.0.0 cfhase.com
 0.0.0.0 chaswe.com
 0.0.0.0 chgase.com
@@ -95,6 +94,8 @@
 0.0.0.0 dchase.com
 0.0.0.0 chayse.com
 0.0.0.0 chaqse.com
+0.0.0.0 cjhase.com
+0.0.0.0 cnhase.com
 0.0.0.0 case.com
 0.0.0.0 chse.com
 0.0.0.0 chas.com
@@ -111,8 +112,9 @@
 0.0.0.0 chaze.com
 0.0.0.0 cuase.com
 0.0.0.0 czase.com
-0.0.0.0 chasr.com
+0.0.0.0 vhase.com
 0.0.0.0 chaae.com
+0.0.0.0 chasr.com
 0.0.0.0 chaee.com
 0.0.0.0 chwse.com
 0.0.0.0 cyase.com
@@ -121,11 +123,10 @@
 0.0.0.0 cbase.com
 0.0.0.0 fhase.com
 0.0.0.0 cnase.com
-0.0.0.0 chasw.com
 0.0.0.0 cgase.com
+0.0.0.0 chasw.com
 0.0.0.0 chaxe.com
 0.0.0.0 xhase.com
-0.0.0.0 vhase.com
 0.0.0.0 chasz.com
 0.0.0.0 ch.ase.com
 0.0.0.0 cahse.com

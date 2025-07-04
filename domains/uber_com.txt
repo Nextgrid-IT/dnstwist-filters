@@ -92,7 +92,6 @@
 0.0.0.0 ubeer.com
 0.0.0.0 ubber.com
 0.0.0.0 uuber.com
-0.0.0.0 ubet.com
 0.0.0.0 ubwr.com
 0.0.0.0 8ber.com
 0.0.0.0 7ber.com

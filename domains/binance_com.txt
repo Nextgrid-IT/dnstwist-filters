@@ -41,8 +41,8 @@
 0.0.0.0 binanke.com
 0.0.0.0 binanae.com
 0.0.0.0 jinance.com
-0.0.0.0 binanbe.com
 0.0.0.0 binence.com
+0.0.0.0 binanbe.com
 0.0.0.0 bknance.com
 0.0.0.0 binalce.com
 0.0.0.0 binaoce.com
@@ -102,12 +102,12 @@
 0.0.0.0 binqance.com
 0.0.0.0 binwance.com
 0.0.0.0 bi9nance.com
+0.0.0.0 binzance.com
 0.0.0.0 bihnance.com
 0.0.0.0 binjance.com
 0.0.0.0 bi8nance.com
 0.0.0.0 binajnce.com
 0.0.0.0 binahnce.com
-0.0.0.0 binanjce.com
 0.0.0.0 binanfce.com
 0.0.0.0 bginance.com
 0.0.0.0 binaznce.com
@@ -115,7 +115,7 @@
 0.0.0.0 bvinance.com
 0.0.0.0 nbinance.com
 0.0.0.0 b9inance.com
-0.0.0.0 binzance.com
+0.0.0.0 binanjce.com
 0.0.0.0 bimnance.com
 0.0.0.0 binabnce.com
 0.0.0.0 binamnce.com

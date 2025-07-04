@@ -58,6 +58,10 @@ to detect typosquatting and lookalike phishing domains.
 
 Paste any of the raw list URLs below into your blocklist settings.
 
+## Single File
+To use just a single file you can import one list 
+https://raw.githubusercontent.com/sparksbenjamin/dnstwist-filters/main/all_domains.txt
+
 ## 📄 Available Blocklists
 """
 

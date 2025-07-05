@@ -25,7 +25,6 @@
 0.0.0.0 uxpedia.com
 0.0.0.0 gxpedia.com
 0.0.0.0 mxpedia.com
-0.0.0.0 extedia.com
 0.0.0.0 expelia.com
 0.0.0.0 expetia.com
 0.0.0.0 dxpedia.com
@@ -43,6 +42,7 @@
 0.0.0.0 eypedia.com
 0.0.0.0 expedic.com
 0.0.0.0 expeeia.com
+0.0.0.0 extedia.com
 0.0.0.0 xn--expdia-rh8b.com
 0.0.0.0 xn--xpedia-oh8b.com
 0.0.0.0 exped1a.com

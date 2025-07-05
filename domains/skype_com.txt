@@ -62,11 +62,11 @@
 0.0.0.0 skyspe.com
 0.0.0.0 skuype.com
 0.0.0.0 slkype.com
-0.0.0.0 skyupe.com
 0.0.0.0 skyope.com
 0.0.0.0 qskype.com
 0.0.0.0 sykype.com
 0.0.0.0 skaype.com
+0.0.0.0 skyupe.com
 0.0.0.0 askype.com
 0.0.0.0 kype.com
 0.0.0.0 skpe.com
@@ -77,7 +77,6 @@
 0.0.0.0 skyppe.com
 0.0.0.0 skyype.com
 0.0.0.0 sskype.com
-0.0.0.0 skyps.com
 0.0.0.0 sktpe.com
 0.0.0.0 dkype.com
 0.0.0.0 akype.com
@@ -85,8 +84,8 @@
 0.0.0.0 skyle.com
 0.0.0.0 skypr.com
 0.0.0.0 smype.com
-0.0.0.0 slype.com
 0.0.0.0 skypw.com
+0.0.0.0 slype.com
 0.0.0.0 skyoe.com
 0.0.0.0 zkype.com
 0.0.0.0 skspe.com
@@ -96,7 +95,7 @@
 0.0.0.0 s.kype.com
 0.0.0.0 sk.ype.com
 0.0.0.0 skpye.com
+0.0.0.0 skyep.com
 0.0.0.0 sykpe.com
 0.0.0.0 ksype.com
-0.0.0.0 skyep.com
 0.0.0.0 skypi.com

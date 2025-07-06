@@ -33,7 +33,6 @@
 0.0.0.0 livd.com
 0.0.0.0 livu.com
 0.0.0.0 livm.com
-0.0.0.0 mive.com
 0.0.0.0 life.com
 0.0.0.0 li6e.com
 0.0.0.0 hive.com
@@ -43,12 +42,12 @@
 0.0.0.0 lhve.com
 0.0.0.0 lire.com
 0.0.0.0 livg.com
+0.0.0.0 mive.com
 0.0.0.0 lmve.com
 0.0.0.0 dive.com
 0.0.0.0 lkve.com
 0.0.0.0 lyve.com
 0.0.0.0 lave.com
-0.0.0.0 11ve.com
 0.0.0.0 xn--liv-8la.com
 0.0.0.0 1lve.com
 0.0.0.0 1ive.com
@@ -61,7 +60,6 @@
 0.0.0.0 xn--lve-nma.com
 0.0.0.0 iive.com
 0.0.0.0 liue.com
-0.0.0.0 i1ve.com
 0.0.0.0 liuc.com
 0.0.0.0 ilve.com
 0.0.0.0 iiue.com

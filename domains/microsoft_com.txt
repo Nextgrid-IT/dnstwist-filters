@@ -13,6 +13,7 @@
 0.0.0.0 microsoftq.com
 0.0.0.0 microsoft4.com
 0.0.0.0 microsofta.com
+0.0.0.0 microsoftt.com
 0.0.0.0 microsoftc.com
 0.0.0.0 microsofte.com
 0.0.0.0 microsofto.com
@@ -24,13 +25,13 @@
 0.0.0.0 microsoftf.com
 0.0.0.0 microsoftm.com
 0.0.0.0 microsoftn.com
-0.0.0.0 microsoftt.com
 0.0.0.0 microskft.com
 0.0.0.0 mkcrosoft.com
 0.0.0.0 microsovt.com
 0.0.0.0 micrksoft.com
 0.0.0.0 misrosoft.com
 0.0.0.0 microsofu.com
+0.0.0.0 micro3oft.com
 0.0.0.0 microcoft.com
 0.0.0.0 micvosoft.com
 0.0.0.0 migrosoft.com
@@ -47,7 +48,6 @@
 0.0.0.0 microsont.com
 0.0.0.0 mmcrosoft.com
 0.0.0.0 microsofp.com
-0.0.0.0 micro3oft.com
 0.0.0.0 micbosoft.com
 0.0.0.0 micrmsoft.com
 0.0.0.0 mibrosoft.com
@@ -209,14 +209,14 @@
 0.0.0.0 mictosoft.com
 0.0.0.0 mivrosoft.com
 0.0.0.0 microsort.com
+0.0.0.0 mjcrosoft.com
 0.0.0.0 microsott.com
 0.0.0.0 m8crosoft.com
 0.0.0.0 mocrosoft.com
 0.0.0.0 kicrosoft.com
+0.0.0.0 microaoft.com
 0.0.0.0 mucrosoft.com
 0.0.0.0 microsofz.com
-0.0.0.0 mjcrosoft.com
-0.0.0.0 microaoft.com
 0.0.0.0 microsoct.com
 0.0.0.0 microsofy.com
 0.0.0.0 micrpsoft.com

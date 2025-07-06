@@ -83,7 +83,6 @@
 0.0.0.0 ips.com
 0.0.0.0 7ps.com
 0.0.0.0 jps.com
-0.0.0.0 hps.com
 0.0.0.0 upe.com
 0.0.0.0 upa.com
 0.0.0.0 uls.com

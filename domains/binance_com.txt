@@ -72,8 +72,8 @@
 0.0.0.0 xn--bnance-p9a.com
 0.0.0.0 dimance.com
 0.0.0.0 xn--bnance-icb.com
-0.0.0.0 clinance.com
 0.0.0.0 1binance.com
+0.0.0.0 clinance.com
 0.0.0.0 binaree.com
 0.0.0.0 dinarce.com
 0.0.0.0 xn--nance-m4a10d.com
@@ -156,13 +156,13 @@
 0.0.0.0 binaance.com
 0.0.0.0 binancce.com
 0.0.0.0 binancz.com
+0.0.0.0 binande.com
 0.0.0.0 binanc3.com
 0.0.0.0 bibance.com
 0.0.0.0 bihance.com
 0.0.0.0 ginance.com
 0.0.0.0 ninance.com
 0.0.0.0 vinance.com
-0.0.0.0 binande.com
 0.0.0.0 bonance.com
 0.0.0.0 b8nance.com
 0.0.0.0 hinance.com

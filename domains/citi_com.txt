@@ -44,7 +44,6 @@
 0.0.0.0 giti.com
 0.0.0.0 civi.com
 0.0.0.0 cipi.com
-0.0.0.0 xn--ct-hpab.com
 0.0.0.0 cit1.com
 0.0.0.0 clti.com
 0.0.0.0 xn--ct-kjab.com
@@ -64,6 +63,8 @@
 0.0.0.0 eiti.com
 0.0.0.0 dti.com
 0.0.0.0 cltl.com
+0.0.0.0 c1t1.com
+0.0.0.0 xn--iti-ppa.com
 0.0.0.0 eitl.com
 0.0.0.0 citl.com
 0.0.0.0 cit-i.com

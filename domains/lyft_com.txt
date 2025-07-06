@@ -52,7 +52,6 @@
 0.0.0.0 yft.com
 0.0.0.0 llyft.com
 0.0.0.0 lyf6.com
-0.0.0.0 kyft.com
 0.0.0.0 ltft.com
 0.0.0.0 lgft.com
 0.0.0.0 lyfy.com

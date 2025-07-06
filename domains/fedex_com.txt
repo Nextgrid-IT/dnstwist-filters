@@ -53,7 +53,6 @@
 0.0.0.0 fede.com
 0.0.0.0 feex.com
 0.0.0.0 edex.com
-0.0.0.0 fexex.com
 0.0.0.0 fesex.com
 0.0.0.0 fedzx.com
 0.0.0.0 cedex.com
@@ -61,16 +60,17 @@
 0.0.0.0 fedrx.com
 0.0.0.0 redex.com
 0.0.0.0 tedex.com
+0.0.0.0 fexex.com
 0.0.0.0 fwdex.com
 0.0.0.0 fedew.com
 0.0.0.0 fedec.com
 0.0.0.0 fedes.com
 0.0.0.0 fedwx.com
 0.0.0.0 fsdex.com
+0.0.0.0 fecex.com
 0.0.0.0 feded.com
 0.0.0.0 fedsx.com
 0.0.0.0 fzdex.com
-0.0.0.0 fecex.com
 0.0.0.0 fed.ex.com
 0.0.0.0 fdeex.com
 0.0.0.0 efdex.com

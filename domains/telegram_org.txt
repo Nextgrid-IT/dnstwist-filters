@@ -32,9 +32,9 @@
 0.0.0.0 telefram.org
 0.0.0.0 telegrim.org
 0.0.0.0 delegram.org
+0.0.0.0 telegrqm.org
 0.0.0.0 telegrem.org
 0.0.0.0 telagram.org
-0.0.0.0 telegrqm.org
 0.0.0.0 telegranm.org
 0.0.0.0 teiegram.org
 0.0.0.0 telcgram.org
@@ -43,7 +43,6 @@
 0.0.0.0 xn--teegram-ojb.org
 0.0.0.0 xn--telegrm-u4a.org
 0.0.0.0 xn--telgram-c9a.org
-0.0.0.0 telegrann.org
 0.0.0.0 teicgram.org
 0.0.0.0 telegran.org
 0.0.0.0 te1egram.org
@@ -57,9 +56,9 @@
 0.0.0.0 telesgram.org
 0.0.0.0 telegrzam.org
 0.0.0.0 telegrsam.org
+0.0.0.0 telegrasm.org
 0.0.0.0 telegeram.org
 0.0.0.0 telegtram.org
-0.0.0.0 telegrasm.org
 0.0.0.0 telegream.org
 0.0.0.0 5telegram.org
 0.0.0.0 ftelegram.org
@@ -88,8 +87,8 @@
 0.0.0.0 yelegram.org
 0.0.0.0 telwgram.org
 0.0.0.0 zelegram.org
-0.0.0.0 tekegram.org
 0.0.0.0 telegtam.org
+0.0.0.0 tekegram.org
 0.0.0.0 telegrsm.org
 0.0.0.0 teletram.org
 0.0.0.0 gelegram.org

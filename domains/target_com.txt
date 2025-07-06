@@ -77,8 +77,8 @@
 0.0.0.0 tarhget.com
 0.0.0.0 taqrget.com
 0.0.0.0 targedt.com
-0.0.0.0 gtarget.com
 0.0.0.0 tqarget.com
+0.0.0.0 gtarget.com
 0.0.0.0 targhet.com
 0.0.0.0 rtarget.com
 0.0.0.0 tasrget.com
@@ -125,12 +125,12 @@
 0.0.0.0 targret.com
 0.0.0.0 tartget.com
 0.0.0.0 targe3t.com
-0.0.0.0 taget.com
 0.0.0.0 arget.com
 0.0.0.0 taret.com
 0.0.0.0 targe.com
 0.0.0.0 targt.com
 0.0.0.0 trget.com
+0.0.0.0 taget.com
 0.0.0.0 taarget.com
 0.0.0.0 targeet.com
 0.0.0.0 targget.com

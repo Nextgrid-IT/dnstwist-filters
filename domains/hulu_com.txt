@@ -108,6 +108,7 @@
 0.0.0.0 hu.lu.com
 0.0.0.0 h.ulu.com
 0.0.0.0 hluu.com
+0.0.0.0 huul.com
 0.0.0.0 uhlu.com
 0.0.0.0 hulucom.com
 0.0.0.0 holu.com

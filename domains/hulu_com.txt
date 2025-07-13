@@ -49,10 +49,9 @@
 0.0.0.0 hvlv.com
 0.0.0.0 hvlu.com
 0.0.0.0 hu1u.com
-0.0.0.0 hviu.com
 0.0.0.0 ihulu.com
 0.0.0.0 huiu.com
-0.0.0.0 hu-lu.com
+0.0.0.0 hviu.com
 0.0.0.0 nhulu.com
 0.0.0.0 hu7lu.com
 0.0.0.0 huhlu.com
@@ -74,12 +73,12 @@
 0.0.0.0 hyulu.com
 0.0.0.0 jhulu.com
 0.0.0.0 huplu.com
+0.0.0.0 hujlu.com
 0.0.0.0 hu8lu.com
 0.0.0.0 hbulu.com
 0.0.0.0 huilu.com
 0.0.0.0 hulku.com
 0.0.0.0 hnulu.com
-0.0.0.0 hujlu.com
 0.0.0.0 huu.com
 0.0.0.0 hlu.com
 0.0.0.0 hul.com

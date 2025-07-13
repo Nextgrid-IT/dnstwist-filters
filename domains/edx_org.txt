@@ -10,8 +10,8 @@
 0.0.0.0 ddx.org
 0.0.0.0 edh.org
 0.0.0.0 eex.org
-0.0.0.0 efx.org
 0.0.0.0 udx.org
+0.0.0.0 efx.org
 0.0.0.0 edp.org
 0.0.0.0 elx.org
 0.0.0.0 mdx.org

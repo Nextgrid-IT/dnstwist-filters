@@ -1,4 +1,5 @@
 0.0.0.0 homedepot.com
+0.0.0.0 homedepoty.com
 0.0.0.0 homedepot1.com
 0.0.0.0 homedepot2.com
 0.0.0.0 homedepot5.com
@@ -25,8 +26,7 @@
 0.0.0.0 homedepotu.com
 0.0.0.0 homedepotx.com
 0.0.0.0 homedepotz.com
-0.0.0.0 homedepoty.com
-0.0.0.0 homedepnt.com
+0.0.0.0 homgdepot.com
 0.0.0.0 homedapot.com
 0.0.0.0 holedepot.com
 0.0.0.0 hkmedepot.com
@@ -144,7 +144,6 @@
 0.0.0.0 homedeepot.com
 0.0.0.0 hopmedepot.com
 0.0.0.0 homdedepot.com
-0.0.0.0 homedept.com
 0.0.0.0 homdepot.com
 0.0.0.0 homedepo.com
 0.0.0.0 hmedepot.com
@@ -153,6 +152,7 @@
 0.0.0.0 homedpot.com
 0.0.0.0 homeepot.com
 0.0.0.0 omedepot.com
+0.0.0.0 homedept.com
 0.0.0.0 homedepsot.com
 0.0.0.0 hoomedepot.com
 0.0.0.0 hhomedepot.com
@@ -197,7 +197,6 @@
 0.0.0.0 homerepot.com
 0.0.0.0 ho.medepot.com
 0.0.0.0 home.depot.com
-0.0.0.0 homedepto.com
 0.0.0.0 hmoedepot.com
 0.0.0.0 hoemdepot.com
 0.0.0.0 homdeepot.com
@@ -205,6 +204,7 @@
 0.0.0.0 homedpeot.com
 0.0.0.0 homeedpot.com
 0.0.0.0 ohmedepot.com
+0.0.0.0 homedepto.com
 0.0.0.0 homedepotcom.com
 0.0.0.0 hemedepot.com
 0.0.0.0 homodepot.com

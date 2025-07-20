@@ -3,6 +3,7 @@
 0.0.0.0 citib.com
 0.0.0.0 citih.com
 0.0.0.0 citip.com
+0.0.0.0 citia.com
 0.0.0.0 citif.com
 0.0.0.0 citij.com
 0.0.0.0 citiv.com
@@ -17,7 +18,6 @@
 0.0.0.0 citi9.com
 0.0.0.0 citig.com
 0.0.0.0 citi1.com
-0.0.0.0 citia.com
 0.0.0.0 citic.com
 0.0.0.0 citim.com
 0.0.0.0 citiw.com
@@ -64,7 +64,6 @@
 0.0.0.0 cltl.com
 0.0.0.0 dti.com
 0.0.0.0 c1t1.com
-0.0.0.0 xn--iti-ppa.com
 0.0.0.0 eitl.com
 0.0.0.0 citl.com
 0.0.0.0 cit-i.com
@@ -91,12 +90,12 @@
 0.0.0.0 cifti.com
 0.0.0.0 ciyti.com
 0.0.0.0 cuiti.com
+0.0.0.0 cit.com
 0.0.0.0 cti.com
 0.0.0.0 iti.com
-0.0.0.0 cit.com
 0.0.0.0 cii.com
-0.0.0.0 ciiti.com
 0.0.0.0 cciti.com
+0.0.0.0 ciiti.com
 0.0.0.0 citti.com
 0.0.0.0 ci6i.com
 0.0.0.0 cifi.com

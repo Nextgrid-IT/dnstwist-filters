@@ -58,11 +58,11 @@
 0.0.0.0 uder.com
 0.0.0.0 ulder.com
 0.0.0.0 udcr.com
+0.0.0.0 vbcr.com
 0.0.0.0 xn--ber-3na.com
 0.0.0.0 xn--ber-40a.com
 0.0.0.0 xn--ubr-7la.com
 0.0.0.0 udler.com
-0.0.0.0 vbcr.com
 0.0.0.0 ulber.com
 0.0.0.0 ubcr.com
 0.0.0.0 vber.com
@@ -79,8 +79,8 @@
 0.0.0.0 iuber.com
 0.0.0.0 ugber.com
 0.0.0.0 ubger.com
-0.0.0.0 ubder.com
 0.0.0.0 zuber.com
+0.0.0.0 ubder.com
 0.0.0.0 huber.com
 0.0.0.0 ubher.com
 0.0.0.0 unber.com

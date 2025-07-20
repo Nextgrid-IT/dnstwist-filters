@@ -1,5 +1,4 @@
 0.0.0.0 ups.com
-0.0.0.0 upsj.com
 0.0.0.0 upsb.com
 0.0.0.0 upsi.com
 0.0.0.0 upsl.com

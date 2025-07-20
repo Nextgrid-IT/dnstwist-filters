@@ -43,6 +43,7 @@
 0.0.0.0 expedic.com
 0.0.0.0 extedia.com
 0.0.0.0 expeeia.com
+0.0.0.0 xn--expedi-1c8b.com
 0.0.0.0 xn--expdia-rh8b.com
 0.0.0.0 xn--xpedia-oh8b.com
 0.0.0.0 exped1a.com

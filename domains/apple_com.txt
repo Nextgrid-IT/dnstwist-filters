@@ -1,5 +1,4 @@
 0.0.0.0 apple.com
-0.0.0.0 appleo.com
 0.0.0.0 applew.com
 0.0.0.0 apple9.com
 0.0.0.0 applen.com
@@ -19,7 +18,7 @@
 0.0.0.0 appleb.com
 0.0.0.0 apples.com
 0.0.0.0 apple0.com
-0.0.0.0 applev.com
+0.0.0.0 appleu.com
 0.0.0.0 appled.com
 0.0.0.0 apple5.com
 0.0.0.0 appley.com
@@ -37,8 +36,8 @@
 0.0.0.0 apqle.com
 0.0.0.0 appne.com
 0.0.0.0 appme.com
-0.0.0.0 epple.com
 0.0.0.0 apphe.com
+0.0.0.0 epple.com
 0.0.0.0 xn--80ak6aa92e.com
 0.0.0.0 xn--ppl-dla7b.com
 0.0.0.0 appie.com
@@ -54,7 +53,6 @@
 0.0.0.0 xn--pple-9na.com
 0.0.0.0 xn--pple-poa.com
 0.0.0.0 xn--appe-7w5a.com
-0.0.0.0 applc.com
 0.0.0.0 xn--aple-bg5a.com
 0.0.0.0 xn--aple-cg5a.com
 0.0.0.0 xn--aple-lg5a.com
@@ -63,6 +61,7 @@
 0.0.0.0 appic.com
 0.0.0.0 xn--ppie-4q5a.com
 0.0.0.0 xn--ppl-rgzsf.com
+0.0.0.0 applc.com
 0.0.0.0 xn--pple-psa.com
 0.0.0.0 xn--pple-4q5a.com
 0.0.0.0 appl-e.com
@@ -72,16 +71,17 @@
 0.0.0.0 alpple.com
 0.0.0.0 apople.com
 0.0.0.0 zapple.com
+0.0.0.0 aplple.com
 0.0.0.0 wapple.com
-0.0.0.0 apploe.com
 0.0.0.0 applle.com
 0.0.0.0 qapple.com
 0.0.0.0 appkle.com
 0.0.0.0 applke.com
 0.0.0.0 aqpple.com
 0.0.0.0 sapple.com
-0.0.0.0 aplple.com
 0.0.0.0 aspple.com
+0.0.0.0 apploe.com
+0.0.0.0 aopple.com
 0.0.0.0 azpple.com
 0.0.0.0 ampple.com
 0.0.0.0 1apple.com
@@ -89,7 +89,6 @@
 0.0.0.0 appple.com
 0.0.0.0 aypple.com
 0.0.0.0 yapple.com
-0.0.0.0 aopple.com
 0.0.0.0 pple.com
 0.0.0.0 aple.com
 0.0.0.0 appl.com
@@ -98,7 +97,6 @@
 0.0.0.0 aapple.com
 0.0.0.0 apmle.com
 0.0.0.0 wpple.com
-0.0.0.0 spple.com
 0.0.0.0 alple.com
 0.0.0.0 applr.com
 0.0.0.0 appls.com
@@ -110,6 +108,7 @@
 0.0.0.0 applw.com
 0.0.0.0 zpple.com
 0.0.0.0 appl3.com
+0.0.0.0 spple.com
 0.0.0.0 appoe.com
 0.0.0.0 ample.com
 0.0.0.0 aplle.com

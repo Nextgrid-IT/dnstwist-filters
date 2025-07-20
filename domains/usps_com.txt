@@ -1,7 +1,7 @@
 0.0.0.0 usps.com
 0.0.0.0 uspsw.com
-0.0.0.0 uspsl.com
 0.0.0.0 uspsu.com
+0.0.0.0 uspsl.com
 0.0.0.0 uspsq.com
 0.0.0.0 uspsa.com
 0.0.0.0 uspsd.com
@@ -10,7 +10,7 @@
 0.0.0.0 usps4.com
 0.0.0.0 uspsr.com
 0.0.0.0 uspsg.com
-0.0.0.0 usps0.com
+0.0.0.0 uspsm.com
 0.0.0.0 usps5.com
 0.0.0.0 uspsv.com
 0.0.0.0 usps1.com
@@ -18,8 +18,9 @@
 0.0.0.0 uspsy.com
 0.0.0.0 uspsb.com
 0.0.0.0 uspsc.com
-0.0.0.0 uspso.com
+0.0.0.0 uspst.com
 0.0.0.0 uspsn.com
+0.0.0.0 uspso.com
 0.0.0.0 wsps.com
 0.0.0.0 5sps.com
 0.0.0.0 usp3.com

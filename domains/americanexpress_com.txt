@@ -9,8 +9,8 @@
 0.0.0.0 americqnexpress.com
 0.0.0.0 americanextress.com
 0.0.0.0 qmericanexpress.com
-0.0.0.0 americalexpress.com
 0.0.0.0 amdricanexpress.com
+0.0.0.0 americalexpress.com
 0.0.0.0 americanaxpress.com
 0.0.0.0 amaricanexpress.com
 0.0.0.0 americanexprews.com
@@ -24,6 +24,7 @@
 0.0.0.0 americarexpress.com
 0.0.0.0 arnericanexpress.com
 0.0.0.0 amerixcanexpress.com
+0.0.0.0 americanexperess.com
 0.0.0.0 americanexporess.com
 0.0.0.0 americanexzpress.com
 0.0.0.0 amwericanexpress.com
@@ -37,14 +38,13 @@
 0.0.0.0 amdericanexpress.com
 0.0.0.0 americanexprwess.com
 0.0.0.0 americanezxpress.com
+0.0.0.0 americanexpredss.com
+0.0.0.0 americanexpr3ess.com
 0.0.0.0 americanexprress.com
-0.0.0.0 americanexperess.com
 0.0.0.0 amrericanexpress.com
 0.0.0.0 americanexprtess.com
 0.0.0.0 americanexspress.com
 0.0.0.0 americqanexpress.com
-0.0.0.0 americanexpr3ess.com
-0.0.0.0 americanexpredss.com
 0.0.0.0 americabnexpress.com
 0.0.0.0 americanexcpress.com
 0.0.0.0 americanexopress.com
@@ -55,7 +55,6 @@
 0.0.0.0 americanexdpress.com
 0.0.0.0 americaqnexpress.com
 0.0.0.0 americanexpfress.com
-0.0.0.0 americanexplress.com
 0.0.0.0 americanexpre4ss.com
 0.0.0.0 americanmexpress.com
 0.0.0.0 americvanexpress.com
@@ -71,10 +70,10 @@
 0.0.0.0 aericanexpress.com
 0.0.0.0 americanexprss.com
 0.0.0.0 americanexress.com
+0.0.0.0 amricanexpress.com
 0.0.0.0 americanxpress.com
 0.0.0.0 amerianexpress.com
 0.0.0.0 americanepress.com
-0.0.0.0 amricanexpress.com
 0.0.0.0 amersicanexpress.com
 0.0.0.0 americanexppress.com
 0.0.0.0 americanecpress.com
@@ -94,11 +93,12 @@
 0.0.0.0 americanexptess.com
 0.0.0.0 amedicanexpress.com
 0.0.0.0 ameticanexpress.com
-0.0.0.0 amerocanexpress.com
 0.0.0.0 americanexlress.com
+0.0.0.0 amerocanexpress.com
 0.0.0.0 americanexprees.com
 0.0.0.0 americanexpresa.com
 0.0.0.0 ameficanexpress.com
+0.0.0.0 ameeicanexpress.com
 0.0.0.0 americabexpress.com
 0.0.0.0 americanexpeess.com
 0.0.0.0 americanexprwss.com
@@ -107,8 +107,6 @@
 0.0.0.0 smericanexpress.com
 0.0.0.0 amwricanexpress.com
 0.0.0.0 americanexprrss.com
-0.0.0.0 ameeicanexpress.com
-0.0.0.0 americanexp.ress.com
 0.0.0.0 ame.ricanexpress.com
 0.0.0.0 ameri.canexpress.com
 0.0.0.0 americanex.press.com
@@ -117,8 +115,8 @@
 0.0.0.0 ameriacnexpress.com
 0.0.0.0 ameircanexpress.com
 0.0.0.0 amercianexpress.com
-0.0.0.0 maericanexpress.com
 0.0.0.0 americanxepress.com
+0.0.0.0 maericanexpress.com
 0.0.0.0 americanexrpess.com
 0.0.0.0 americanepxress.com
 0.0.0.0 americonexpress.com

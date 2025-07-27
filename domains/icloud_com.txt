@@ -15,13 +15,13 @@
 0.0.0.0 icloude.com
 0.0.0.0 icloudo.com
 0.0.0.0 icloudv.com
+0.0.0.0 icloudc.com
 0.0.0.0 icloud0.com
 0.0.0.0 icloudl.com
 0.0.0.0 icloud2.com
 0.0.0.0 icloudd.com
 0.0.0.0 icloudu.com
 0.0.0.0 icloud9.com
-0.0.0.0 icloudc.com
 0.0.0.0 icloudt.com
 0.0.0.0 iclouds.com
 0.0.0.0 igloud.com
@@ -49,6 +49,7 @@
 0.0.0.0 xn--iclod-nva.com
 0.0.0.0 idoud.com
 0.0.0.0 ieloud.com
+0.0.0.0 xn--iciod-9d2b.com
 0.0.0.0 idoub.com
 0.0.0.0 lcloudl.com
 0.0.0.0 ici0ud.com
@@ -58,9 +59,8 @@
 0.0.0.0 xn--cioud-ssa.com
 0.0.0.0 iboud.com
 0.0.0.0 xn--iclod-1gb.com
+0.0.0.0 xn--cioud-p81b.com
 0.0.0.0 icioucl.com
-0.0.0.0 xn--iciod-9d2b.com
-0.0.0.0 iclovdl.com
 0.0.0.0 xn--icoud-r81b.com
 0.0.0.0 icioud.com
 0.0.0.0 icl0ud.com
@@ -76,18 +76,18 @@
 0.0.0.0 1cloud.com
 0.0.0.0 idovd.com
 0.0.0.0 1c1oud.com
-0.0.0.0 xn--cloud-ssa.com
 0.0.0.0 xn--icld-ix5a8f.com
 0.0.0.0 iclovb.com
 0.0.0.0 xn--clud-4w5aoa.com
 0.0.0.0 xn--iciud-481b.com
 0.0.0.0 icloucl.com
 0.0.0.0 xn--cloud-93a.com
-0.0.0.0 iclovd.com
+0.0.0.0 xn--cloud-ssa.com
 0.0.0.0 xn--cloud-p81b.com
 0.0.0.0 xn--cloud-ysa.com
 0.0.0.0 icloucll.com
 0.0.0.0 icloudll.com
+0.0.0.0 iclovd.com
 0.0.0.0 i-cloud.com
 0.0.0.0 ic-loud.com
 0.0.0.0 uicloud.com
@@ -102,6 +102,7 @@
 0.0.0.0 iocloud.com
 0.0.0.0 idcloud.com
 0.0.0.0 icvloud.com
+0.0.0.0 iclou7d.com
 0.0.0.0 iclopud.com
 0.0.0.0 iclouyd.com
 0.0.0.0 iclpoud.com
@@ -110,7 +111,7 @@
 0.0.0.0 iclloud.com
 0.0.0.0 iclooud.com
 0.0.0.0 iucloud.com
-0.0.0.0 iclou7d.com
+0.0.0.0 i8cloud.com
 0.0.0.0 iclo0ud.com
 0.0.0.0 iclo9ud.com
 0.0.0.0 ixcloud.com
@@ -140,7 +141,6 @@
 0.0.0.0 jcloud.com
 0.0.0.0 iclous.com
 0.0.0.0 ocloud.com
-0.0.0.0 icloyd.com
 0.0.0.0 iclo7d.com
 0.0.0.0 iclo8d.com
 0.0.0.0 icllud.com
@@ -149,6 +149,7 @@
 0.0.0.0 icloid.com
 0.0.0.0 ixloud.com
 0.0.0.0 ucloud.com
+0.0.0.0 icloyd.com
 0.0.0.0 iclozd.com
 0.0.0.0 iclo.ud.com
 0.0.0.0 ciloud.com
@@ -157,7 +158,8 @@
 0.0.0.0 icolud.com
 0.0.0.0 ilcoud.com
 0.0.0.0 icluud.com
+0.0.0.0 iclaud.com
 0.0.0.0 iclood.com
+0.0.0.0 icleud.com
 0.0.0.0 icload.com
 0.0.0.0 ecloud.com
-0.0.0.0 iclaud.com

@@ -41,7 +41,6 @@
 0.0.0.0 wber.com
 0.0.0.0 ube2.com
 0.0.0.0 ufer.com
-0.0.0.0 ubep.com
 0.0.0.0 ucer.com
 0.0.0.0 qber.com
 0.0.0.0 tber.com
@@ -50,6 +49,7 @@
 0.0.0.0 ubmr.com
 0.0.0.0 urer.com
 0.0.0.0 ubdr.com
+0.0.0.0 ubep.com
 0.0.0.0 ubeb.com
 0.0.0.0 ucler.com
 0.0.0.0 uiber.com
@@ -80,9 +80,9 @@
 0.0.0.0 ugber.com
 0.0.0.0 ubger.com
 0.0.0.0 zuber.com
+0.0.0.0 ubder.com
 0.0.0.0 huber.com
 0.0.0.0 ubher.com
-0.0.0.0 ubder.com
 0.0.0.0 unber.com
 0.0.0.0 juber.com
 0.0.0.0 ubr.com
@@ -113,8 +113,8 @@
 0.0.0.0 8ber.com
 0.0.0.0 uher.com
 0.0.0.0 u.ber.com
-0.0.0.0 uebr.com
 0.0.0.0 buer.com
+0.0.0.0 uebr.com
 0.0.0.0 ubre.com
 0.0.0.0 ubercom.com
 0.0.0.0 ubir.com

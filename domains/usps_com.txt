@@ -12,8 +12,6 @@
 0.0.0.0 uspsc.com
 0.0.0.0 uspsg.com
 0.0.0.0 uspsm.com
-0.0.0.0 usps5.com
-0.0.0.0 uspsv.com
 0.0.0.0 usps1.com
 0.0.0.0 uspsp.com
 0.0.0.0 uspsy.com
@@ -60,11 +58,10 @@
 0.0.0.0 usops.com
 0.0.0.0 uswps.com
 0.0.0.0 iusps.com
-0.0.0.0 u8sps.com
 0.0.0.0 usxps.com
 0.0.0.0 usaps.com
 0.0.0.0 uspos.com
-0.0.0.0 u7sps.com
+0.0.0.0 u8sps.com
 0.0.0.0 ups.com
 0.0.0.0 uss.com
 0.0.0.0 sps.com
@@ -85,9 +82,9 @@
 0.0.0.0 usls.com
 0.0.0.0 usos.com
 0.0.0.0 isps.com
-0.0.0.0 uxps.com
 0.0.0.0 uspy.com
 0.0.0.0 uzps.com
+0.0.0.0 uxps.com
 0.0.0.0 8sps.com
 0.0.0.0 jsps.com
 0.0.0.0 uspe.com
@@ -95,4 +92,5 @@
 0.0.0.0 usms.com
 0.0.0.0 upss.com
 0.0.0.0 sups.com
+0.0.0.0 osps.com
 0.0.0.0 asps.com

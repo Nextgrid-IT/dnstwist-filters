@@ -3,9 +3,10 @@
 0.0.0.0 airbnbz.com
 0.0.0.0 airbnbu.com
 0.0.0.0 airbnb1.com
+0.0.0.0 airbnbl.com
 0.0.0.0 airbnby.com
-0.0.0.0 airbnbs.com
 0.0.0.0 airbnb3.com
+0.0.0.0 airbnbs.com
 0.0.0.0 airbnba.com
 0.0.0.0 airbnb2.com
 0.0.0.0 airbnbb.com
@@ -14,7 +15,6 @@
 0.0.0.0 airbnbt.com
 0.0.0.0 airbnbi.com
 0.0.0.0 airbnbh.com
-0.0.0.0 airbnbl.com
 0.0.0.0 airbnbo.com
 0.0.0.0 airbnbc.com
 0.0.0.0 airblb.com
@@ -22,6 +22,7 @@
 0.0.0.0 ayrbnb.com
 0.0.0.0 airbnf.com
 0.0.0.0 aarbnb.com
+0.0.0.0 airbnr.com
 0.0.0.0 ahrbnb.com
 0.0.0.0 eirbnb.com
 0.0.0.0 airrnb.com
@@ -69,15 +70,13 @@
 0.0.0.0 asirbnb.com
 0.0.0.0 qairbnb.com
 0.0.0.0 airebnb.com
-0.0.0.0 airbmnb.com
 0.0.0.0 wairbnb.com
 0.0.0.0 airbn.com
-0.0.0.0 irbnb.com
 0.0.0.0 aibnb.com
+0.0.0.0 irbnb.com
 0.0.0.0 airbb.com
 0.0.0.0 airnb.com
 0.0.0.0 airsbnb.com
-0.0.0.0 airrbnb.com
 0.0.0.0 aiirbnb.com
 0.0.0.0 airbnn.com
 0.0.0.0 aiebnb.com

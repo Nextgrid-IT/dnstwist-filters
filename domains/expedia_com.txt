@@ -23,7 +23,6 @@
 0.0.0.0 expudia.com
 0.0.0.0 axpedia.com
 0.0.0.0 uxpedia.com
-0.0.0.0 expedii.com
 0.0.0.0 gxpedia.com
 0.0.0.0 mxpedia.com
 0.0.0.0 extedia.com
@@ -39,6 +38,7 @@
 0.0.0.0 expefia.com
 0.0.0.0 ezpedia.com
 0.0.0.0 expadia.com
+0.0.0.0 expedii.com
 0.0.0.0 expedaa.com
 0.0.0.0 eypedia.com
 0.0.0.0 expedic.com
@@ -60,7 +60,6 @@
 0.0.0.0 expedsia.com
 0.0.0.0 expedija.com
 0.0.0.0 edxpedia.com
-0.0.0.0 exlpedia.com
 0.0.0.0 expedcia.com
 0.0.0.0 expmedia.com
 0.0.0.0 ecxpedia.com

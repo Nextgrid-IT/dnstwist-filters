@@ -51,7 +51,6 @@
 0.0.0.0 ubdr.com
 0.0.0.0 ubep.com
 0.0.0.0 ubeb.com
-0.0.0.0 xn--ubr-kjz.com
 0.0.0.0 ucler.com
 0.0.0.0 uiber.com
 0.0.0.0 vder.com
@@ -93,6 +92,7 @@
 0.0.0.0 ubeer.com
 0.0.0.0 ubber.com
 0.0.0.0 uuber.com
+0.0.0.0 ubwr.com
 0.0.0.0 7ber.com
 0.0.0.0 ubrr.com
 0.0.0.0 yber.com

@@ -3,15 +3,16 @@
 0.0.0.0 dhlc.com
 0.0.0.0 dhla.com
 0.0.0.0 dhl9.com
+0.0.0.0 dhlm.com
+0.0.0.0 dhl8.com
+0.0.0.0 dhl5.com
+0.0.0.0 dhlb.com
 0.0.0.0 dhle.com
 0.0.0.0 dhlk.com
 0.0.0.0 dhln.com
 0.0.0.0 dhlr.com
 0.0.0.0 dhlu.com
 0.0.0.0 dhlz.com
-0.0.0.0 dhlm.com
-0.0.0.0 dhl8.com
-0.0.0.0 dhl5.com
 0.0.0.0 dhl1.com
 0.0.0.0 dhlv.com
 0.0.0.0 dhls.com
@@ -22,7 +23,6 @@
 0.0.0.0 dhlj.com
 0.0.0.0 dhlw.com
 0.0.0.0 dhld.com
-0.0.0.0 dhlb.com
 0.0.0.0 thl.com
 0.0.0.0 dhd.com
 0.0.0.0 dxl.com
@@ -38,11 +38,11 @@
 0.0.0.0 cihl.com
 0.0.0.0 dlh1.com
 0.0.0.0 xn--hl-pss.com
-0.0.0.0 dlhi.com
 0.0.0.0 bhi.com
 0.0.0.0 xn--dh-ipa.com
 0.0.0.0 dh1.com
 0.0.0.0 clh1.com
+0.0.0.0 dlhi.com
 0.0.0.0 bhl.com
 0.0.0.0 blhl.com
 0.0.0.0 clhl.com
@@ -85,7 +85,6 @@
 0.0.0.0 dzl.com
 0.0.0.0 dhk.com
 0.0.0.0 rhl.com
-0.0.0.0 dnl.com
 0.0.0.0 dbl.com
 0.0.0.0 dhp.com
 0.0.0.0 chl.com
@@ -95,5 +94,6 @@
 0.0.0.0 dul.com
 0.0.0.0 dho.com
 0.0.0.0 xhl.com
+0.0.0.0 dnl.com
 0.0.0.0 dlh.com
 0.0.0.0 dhlcom.com

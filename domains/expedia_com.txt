@@ -42,6 +42,7 @@
 0.0.0.0 eypedia.com
 0.0.0.0 expedic.com
 0.0.0.0 expeeia.com
+0.0.0.0 xn--expedi-1c8b.com
 0.0.0.0 xn--xpedia-oh8b.com
 0.0.0.0 exped1a.com
 0.0.0.0 xn--expdia-dva.com
@@ -120,7 +121,6 @@
 0.0.0.0 expedis.com
 0.0.0.0 ecpedia.com
 0.0.0.0 experia.com
-0.0.0.0 ewpedia.com
 0.0.0.0 exped.ia.com
 0.0.0.0 xepedia.com
 0.0.0.0 epxedia.com

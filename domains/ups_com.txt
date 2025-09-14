@@ -1,6 +1,5 @@
 0.0.0.0 ups.com
 0.0.0.0 upsj.com
-0.0.0.0 ups3.com
 0.0.0.0 upsb.com
 0.0.0.0 upsi.com
 0.0.0.0 upsl.com
@@ -10,6 +9,7 @@
 0.0.0.0 ups1.com
 0.0.0.0 upso.com
 0.0.0.0 upsp.com
+0.0.0.0 ups3.com
 0.0.0.0 ups0.com
 0.0.0.0 upse.com
 0.0.0.0 upsv.com
@@ -23,6 +23,7 @@
 0.0.0.0 ups2.com
 0.0.0.0 ups7.com
 0.0.0.0 ups5.com
+0.0.0.0 ups9.com
 0.0.0.0 upsn.com
 0.0.0.0 upsq.com
 0.0.0.0 upsz.com
@@ -42,8 +43,8 @@
 0.0.0.0 wps.com
 0.0.0.0 tps.com
 0.0.0.0 uqs.com
-0.0.0.0 upr.com
 0.0.0.0 eps.com
+0.0.0.0 upr.com
 0.0.0.0 uts.com
 0.0.0.0 xn--vp-mta.com
 0.0.0.0 vps.com
@@ -62,8 +63,8 @@
 0.0.0.0 uhps.com
 0.0.0.0 upos.com
 0.0.0.0 upls.com
-0.0.0.0 uips.com
 0.0.0.0 uzps.com
+0.0.0.0 uips.com
 0.0.0.0 ujps.com
 0.0.0.0 8ups.com
 0.0.0.0 iups.com

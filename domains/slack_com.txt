@@ -25,15 +25,12 @@
 0.0.0.0 3lack.com
 0.0.0.0 slaak.com
 0.0.0.0 slaco.com
-0.0.0.0 slakk.com
 0.0.0.0 sleck.com
 0.0.0.0 slaci.com
 0.0.0.0 qlack.com
-0.0.0.0 slqck.com
-0.0.0.0 rlack.com
-0.0.0.0 slagk.com
 0.0.0.0 slacc.com
 0.0.0.0 shack.com
+0.0.0.0 slakk.com
 0.0.0.0 clack.com
 0.0.0.0 slask.com
 0.0.0.0 wlack.com

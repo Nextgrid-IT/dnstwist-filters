@@ -1,5 +1,4 @@
 0.0.0.0 citi.com
-0.0.0.0 citiq.com
 0.0.0.0 citit.com
 0.0.0.0 citib.com
 0.0.0.0 citih.com
@@ -47,16 +46,6 @@
 0.0.0.0 cit1.com
 0.0.0.0 clti.com
 0.0.0.0 eit1.com
-0.0.0.0 xn--cit-ota.com
-0.0.0.0 xn--cit-tma.com
-0.0.0.0 xn--cit-wta.com
-0.0.0.0 xn--ct-kja7w.com
-0.0.0.0 xn--ct-kjab.com
-0.0.0.0 xn--ct-ljac.com
-0.0.0.0 xn--ct-njab.com
-0.0.0.0 xn--ct-soab.com
-0.0.0.0 xn--ct-yoab.com
-0.0.0.0 xn--cti-nma.com
 0.0.0.0 elti.com
 0.0.0.0 c1ti.com
 0.0.0.0 cltl.com
@@ -96,8 +85,8 @@
 0.0.0.0 iti.com
 0.0.0.0 cit.com
 0.0.0.0 cii.com
-0.0.0.0 citti.com
 0.0.0.0 cciti.com
+0.0.0.0 citti.com
 0.0.0.0 ciiti.com
 0.0.0.0 coti.com
 0.0.0.0 ci6i.com
@@ -120,5 +109,5 @@
 0.0.0.0 ctii.com
 0.0.0.0 ciit.com
 0.0.0.0 citicom.com
-0.0.0.0 cite.com
 0.0.0.0 ceti.com
+0.0.0.0 cite.com

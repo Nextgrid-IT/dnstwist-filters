@@ -10,9 +10,9 @@
 0.0.0.0 huluf.com
 0.0.0.0 hulua.com
 0.0.0.0 hulu5.com
-0.0.0.0 hulum.com
 0.0.0.0 hulud.com
 0.0.0.0 huluv.com
+0.0.0.0 hulum.com
 0.0.0.0 hulu9.com
 0.0.0.0 hulu7.com
 0.0.0.0 hulub.com
@@ -51,7 +51,6 @@
 0.0.0.0 ihulu.com
 0.0.0.0 huiu.com
 0.0.0.0 hviu.com
-0.0.0.0 hu-lu.com
 0.0.0.0 nhulu.com
 0.0.0.0 hu7lu.com
 0.0.0.0 huhlu.com
@@ -60,7 +59,6 @@
 0.0.0.0 zhulu.com
 0.0.0.0 huzlu.com
 0.0.0.0 hu8lu.com
-0.0.0.0 hzulu.com
 0.0.0.0 humlu.com
 0.0.0.0 uhulu.com
 0.0.0.0 bhulu.com
@@ -75,11 +73,11 @@
 0.0.0.0 hyulu.com
 0.0.0.0 jhulu.com
 0.0.0.0 huplu.com
-0.0.0.0 hujlu.com
 0.0.0.0 hbulu.com
 0.0.0.0 huilu.com
 0.0.0.0 hulku.com
 0.0.0.0 hnulu.com
+0.0.0.0 hujlu.com
 0.0.0.0 huu.com
 0.0.0.0 hlu.com
 0.0.0.0 ulu.com
@@ -108,9 +106,7 @@
 0.0.0.0 hu.lu.com
 0.0.0.0 hluu.com
 0.0.0.0 uhlu.com
-0.0.0.0 huul.com
 0.0.0.0 hulucom.com
-0.0.0.0 hula.com
 0.0.0.0 holu.com
 0.0.0.0 hulo.com
 0.0.0.0 halu.com

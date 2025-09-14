@@ -22,6 +22,7 @@
 0.0.0.0 uberv.com
 0.0.0.0 ubery.com
 0.0.0.0 uberu.com
+0.0.0.0 uber5.com
 0.0.0.0 uberg.com
 0.0.0.0 uberq.com
 0.0.0.0 uberm.com
@@ -29,7 +30,6 @@
 0.0.0.0 uber2.com
 0.0.0.0 uber7.com
 0.0.0.0 ubero.com
-0.0.0.0 uber5.com
 0.0.0.0 uberz.com
 0.0.0.0 ubern.com
 0.0.0.0 ujer.com
@@ -39,11 +39,11 @@
 0.0.0.0 ubgr.com
 0.0.0.0 wber.com
 0.0.0.0 ube2.com
-0.0.0.0 ubev.com
 0.0.0.0 ufer.com
 0.0.0.0 ucer.com
 0.0.0.0 qber.com
 0.0.0.0 tber.com
+0.0.0.0 ubev.com
 0.0.0.0 eber.com
 0.0.0.0 ubez.com
 0.0.0.0 ubmr.com
@@ -51,6 +51,7 @@
 0.0.0.0 ubdr.com
 0.0.0.0 ubep.com
 0.0.0.0 ubeb.com
+0.0.0.0 xn--ubr-kjz.com
 0.0.0.0 ucler.com
 0.0.0.0 vder.com
 0.0.0.0 xn--ber-goa.com
@@ -60,9 +61,9 @@
 0.0.0.0 xn--ber-40a.com
 0.0.0.0 xn--ubr-7la.com
 0.0.0.0 udler.com
-0.0.0.0 vber.com
 0.0.0.0 udcr.com
 0.0.0.0 uiber.com
+0.0.0.0 vber.com
 0.0.0.0 ulber.com
 0.0.0.0 ubcr.com
 0.0.0.0 xn--ber-coa.com

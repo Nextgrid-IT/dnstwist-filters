@@ -37,14 +37,15 @@
 0.0.0.0 costcm.com
 0.0.0.0 bostco.com
 0.0.0.0 costbo.com
-0.0.0.0 eosteo.com
 0.0.0.0 xn--costc-zua.com
+0.0.0.0 eosteo.com
 0.0.0.0 costeo.com
 0.0.0.0 c0stco.com
 0.0.0.0 c0stc0.com
 0.0.0.0 costc0.com
 0.0.0.0 costvco.com
 0.0.0.0 costyco.com
+0.0.0.0 costfco.com
 0.0.0.0 cosytco.com
 0.0.0.0 codstco.com
 0.0.0.0 colstco.com
@@ -55,7 +56,6 @@
 0.0.0.0 ciostco.com
 0.0.0.0 copstco.com
 0.0.0.0 cosrtco.com
-0.0.0.0 costfco.com
 0.0.0.0 vcostco.com
 0.0.0.0 coswtco.com
 0.0.0.0 costcfo.com
@@ -75,7 +75,6 @@
 0.0.0.0 cstco.com
 0.0.0.0 costc.com
 0.0.0.0 cotco.com
-0.0.0.0 cosco.com
 0.0.0.0 ostco.com
 0.0.0.0 costsco.com
 0.0.0.0 costtco.com
@@ -100,8 +99,8 @@
 0.0.0.0 cosgco.com
 0.0.0.0 costfo.com
 0.0.0.0 vostco.com
-0.0.0.0 cistco.com
 0.0.0.0 coztco.com
+0.0.0.0 cistco.com
 0.0.0.0 fostco.com
 0.0.0.0 cosyco.com
 0.0.0.0 xostco.com

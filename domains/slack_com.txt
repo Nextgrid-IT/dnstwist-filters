@@ -7,7 +7,6 @@
 0.0.0.0 slackd.com
 0.0.0.0 slack2.com
 0.0.0.0 slacki.com
-0.0.0.0 slackn.com
 0.0.0.0 slacks.com
 0.0.0.0 slackb.com
 0.0.0.0 slacka.com
@@ -16,6 +15,7 @@
 0.0.0.0 slacky.com
 0.0.0.0 slackz.com
 0.0.0.0 slackx.com
+0.0.0.0 slackn.com
 0.0.0.0 slackk.com
 0.0.0.0 slackr.com
 0.0.0.0 smack.com
@@ -65,12 +65,12 @@
 0.0.0.0 slacm.com
 0.0.0.0 spack.com
 0.0.0.0 zlack.com
+0.0.0.0 slsck.com
 0.0.0.0 slyck.com
 0.0.0.0 slacl.com
 0.0.0.0 elack.com
 0.0.0.0 sl1ck.com
 0.0.0.0 xlack.com
-0.0.0.0 slsck.com
 0.0.0.0 sladk.com
 0.0.0.0 slakc.com
 0.0.0.0 lsack.com

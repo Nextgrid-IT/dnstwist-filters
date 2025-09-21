@@ -50,7 +50,6 @@
 0.0.0.0 micbosoft.com
 0.0.0.0 micrmsoft.com
 0.0.0.0 mibrosoft.com
-0.0.0.0 micro3oft.com
 0.0.0.0 microwoft.com
 0.0.0.0 microqoft.com
 0.0.0.0 microsodt.com
@@ -69,7 +68,6 @@
 0.0.0.0 xn--microoft-rwb.com
 0.0.0.0 xn--mcrosoft-9ib.com
 0.0.0.0 xn--mcrosoft-u2a.com
-0.0.0.0 rnlcrosoft.com
 0.0.0.0 ricrosoft.com
 0.0.0.0 rnicros0ft.com
 0.0.0.0 xn--mcrosot-21b43q.com
@@ -105,8 +103,8 @@
 0.0.0.0 xn--microsof-hk0d.com
 0.0.0.0 xn--mcrosoft-tkb.com
 0.0.0.0 mi-crosoft.com
-0.0.0.0 micros-oft.com
 0.0.0.0 microsof-t.com
+0.0.0.0 micros-oft.com
 0.0.0.0 micr-osoft.com
 0.0.0.0 micro-soft.com
 0.0.0.0 microisoft.com
@@ -117,7 +115,6 @@
 0.0.0.0 micrposoft.com
 0.0.0.0 mixcrosoft.com
 0.0.0.0 mkicrosoft.com
-0.0.0.0 micrfosoft.com
 0.0.0.0 micriosoft.com
 0.0.0.0 mikcrosoft.com
 0.0.0.0 microwsoft.com
@@ -130,6 +127,7 @@
 0.0.0.0 micropsoft.com
 0.0.0.0 microseoft.com
 0.0.0.0 microysoft.com
+0.0.0.0 microdsoft.com
 0.0.0.0 microsovft.com
 0.0.0.0 lmicrosoft.com
 0.0.0.0 micfrosoft.com
@@ -179,7 +177,7 @@
 0.0.0.0 mijcrosoft.com
 0.0.0.0 microsofct.com
 0.0.0.0 microsofvt.com
-0.0.0.0 microdsoft.com
+0.0.0.0 micrfosoft.com
 0.0.0.0 micvrosoft.com
 0.0.0.0 micosoft.com
 0.0.0.0 mcrosoft.com
@@ -191,9 +189,9 @@
 0.0.0.0 micrsoft.com
 0.0.0.0 mirosoft.com
 0.0.0.0 micsrosoft.com
+0.0.0.0 micrososft.com
 0.0.0.0 microssoft.com
 0.0.0.0 micrsosoft.com
-0.0.0.0 micrososft.com
 0.0.0.0 miccrosoft.com
 0.0.0.0 microosoft.com
 0.0.0.0 microsofft.com
@@ -216,8 +214,8 @@
 0.0.0.0 m8crosoft.com
 0.0.0.0 microsott.com
 0.0.0.0 mocrosoft.com
-0.0.0.0 microsofz.com
 0.0.0.0 microaoft.com
+0.0.0.0 microsofz.com
 0.0.0.0 microsoct.com
 0.0.0.0 micrpsoft.com
 0.0.0.0 midrosoft.com
@@ -236,14 +234,14 @@
 0.0.0.0 micr.osoft.com
 0.0.0.0 mi.crosoft.com
 0.0.0.0 micro.soft.com
-0.0.0.0 micrsooft.com
 0.0.0.0 microosft.com
+0.0.0.0 micorsoft.com
 0.0.0.0 mcirosoft.com
 0.0.0.0 microsfot.com
 0.0.0.0 microsotf.com
 0.0.0.0 mircosoft.com
+0.0.0.0 micrsooft.com
 0.0.0.0 imcrosoft.com
-0.0.0.0 micorsoft.com
 0.0.0.0 microsoftcom.com
 0.0.0.0 micresoft.com
 0.0.0.0 micrusoft.com

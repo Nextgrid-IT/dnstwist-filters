@@ -1,4 +1,5 @@
 0.0.0.0 expedia.com
+0.0.0.0 expediau.com
 0.0.0.0 expedia8.com
 0.0.0.0 expedia1.com
 0.0.0.0 expediad.com
@@ -14,7 +15,6 @@
 0.0.0.0 expedial.com
 0.0.0.0 expedian.com
 0.0.0.0 expediaf.com
-0.0.0.0 expediau.com
 0.0.0.0 expediaw.com
 0.0.0.0 expediaz.com
 0.0.0.0 expediag.com
@@ -24,7 +24,6 @@
 0.0.0.0 gxpedia.com
 0.0.0.0 mxpedia.com
 0.0.0.0 uxpedia.com
-0.0.0.0 extedia.com
 0.0.0.0 expelia.com
 0.0.0.0 expetia.com
 0.0.0.0 dxpedia.com
@@ -37,11 +36,12 @@
 0.0.0.0 expefia.com
 0.0.0.0 ezpedia.com
 0.0.0.0 expadia.com
+0.0.0.0 extedia.com
 0.0.0.0 expedii.com
 0.0.0.0 expedaa.com
 0.0.0.0 eypedia.com
-0.0.0.0 expedic.com
 0.0.0.0 expeeia.com
+0.0.0.0 xn--xpedia-oh8b.com
 0.0.0.0 exped1a.com
 0.0.0.0 xn--expdia-dva.com
 0.0.0.0 xn--xpedia-9ua.com

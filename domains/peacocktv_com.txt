@@ -3,6 +3,7 @@
 0.0.0.0 peacocktvf.com
 0.0.0.0 peacocktvl.com
 0.0.0.0 peacocktvp.com
+0.0.0.0 peacocktvx.com
 0.0.0.0 peqcocktv.com
 0.0.0.0 peacocotv.com
 0.0.0.0 peakocktv.com
@@ -10,9 +11,9 @@
 0.0.0.0 peackcktv.com
 0.0.0.0 peacokktv.com
 0.0.0.0 paacocktv.com
+0.0.0.0 peacocktr.com
 0.0.0.0 peecocktv.com
 0.0.0.0 peacoaktv.com
-0.0.0.0 peacocktr.com
 0.0.0.0 peacocktt.com
 0.0.0.0 peac0cktv.com
 0.0.0.0 peac-ocktv.com
@@ -26,8 +27,8 @@
 0.0.0.0 peascocktv.com
 0.0.0.0 peacocoktv.com
 0.0.0.0 peacoclktv.com
-0.0.0.0 preacocktv.com
 0.0.0.0 peacokcktv.com
+0.0.0.0 preacocktv.com
 0.0.0.0 peacockv.com
 0.0.0.0 peaccktv.com
 0.0.0.0 peacockt.com
@@ -62,12 +63,12 @@
 0.0.0.0 pwacocktv.com
 0.0.0.0 peacocktg.com
 0.0.0.0 peacocmtv.com
+0.0.0.0 peacock5v.com
+0.0.0.0 peacodktv.com
 0.0.0.0 leacocktv.com
 0.0.0.0 oeacocktv.com
 0.0.0.0 pracocktv.com
 0.0.0.0 peacockfv.com
-0.0.0.0 peacock5v.com
-0.0.0.0 peacodktv.com
 0.0.0.0 peac.ocktv.com
 0.0.0.0 pea.cocktv.com
 0.0.0.0 pe.acocktv.com

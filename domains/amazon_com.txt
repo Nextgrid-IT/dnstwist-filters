@@ -31,10 +31,10 @@
 0.0.0.0 amazon8.com
 0.0.0.0 amazond.com
 0.0.0.0 amazonz.com
-0.0.0.0 amazonm.com
 0.0.0.0 amazons.com
-0.0.0.0 amazone.com
+0.0.0.0 amazonm.com
 0.0.0.0 amazon7.com
+0.0.0.0 amazone.com
 0.0.0.0 cmazon.com
 0.0.0.0 amaron.com
 0.0.0.0 aiazon.com
@@ -63,6 +63,9 @@
 0.0.0.0 xn--amazn-mua.com
 0.0.0.0 anazor.com
 0.0.0.0 amazor.com
+0.0.0.0 xn--amzon-gwa.com
+0.0.0.0 xn--mazon-2qa.com
+0.0.0.0 xn--amaz-ogb6015b.com
 0.0.0.0 xn--mazon-qqa.com
 0.0.0.0 xn--amazn-v9a.com
 0.0.0.0 annazom.com
@@ -77,11 +80,8 @@
 0.0.0.0 annazon.com
 0.0.0.0 armazon.com
 0.0.0.0 arnazon.com
-0.0.0.0 xn--amzon-gwa.com
-0.0.0.0 xn--mazon-2qa.com
 0.0.0.0 arazon.com
 0.0.0.0 xn--mazon-qwa.com
-0.0.0.0 xn--amaz-ogb6015b.com
 0.0.0.0 xn--amzn-6na3i.com
 0.0.0.0 arrazon.com
 0.0.0.0 amazom.com
@@ -102,6 +102,8 @@
 0.0.0.0 amagzon.com
 0.0.0.0 amawzon.com
 0.0.0.0 amazqon.com
+0.0.0.0 almazon.com
+0.0.0.0 amazeon.com
 0.0.0.0 samazon.com
 0.0.0.0 2amazon.com
 0.0.0.0 amaazon.com
@@ -127,8 +129,6 @@
 0.0.0.0 aymazon.com
 0.0.0.0 qamazon.com
 0.0.0.0 wamazon.com
-0.0.0.0 almazon.com
-0.0.0.0 amazeon.com
 0.0.0.0 amaz6on.com
 0.0.0.0 amazgon.com
 0.0.0.0 amazuon.com
@@ -194,8 +194,8 @@
 0.0.0.0 maazon.com
 0.0.0.0 amaozn.com
 0.0.0.0 omazon.com
+0.0.0.0 amazun.com
 0.0.0.0 amozon.com
 0.0.0.0 amuzon.com
-0.0.0.0 amazun.com
 0.0.0.0 amazan.com
 0.0.0.0 amazen.com

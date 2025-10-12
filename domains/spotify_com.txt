@@ -1,5 +1,4 @@
 0.0.0.0 spotify.com
-0.0.0.0 spotifym.com
 0.0.0.0 spotifyv.com
 0.0.0.0 spotifyo.com
 0.0.0.0 spotifyd.com
@@ -11,9 +10,9 @@
 0.0.0.0 spotifys.com
 0.0.0.0 spotify6.com
 0.0.0.0 spotifyl.com
+0.0.0.0 spotifym.com
 0.0.0.0 spotifyx.com
 0.0.0.0 spotifyy.com
-0.0.0.0 spotifyg.com
 0.0.0.0 spotifyu.com
 0.0.0.0 spotifyt.com
 0.0.0.0 spotiny.com
@@ -39,11 +38,10 @@
 0.0.0.0 spotyfy.com
 0.0.0.0 spotidy.com
 0.0.0.0 spotifi.com
-0.0.0.0 stotify.com
 0.0.0.0 spotigy.com
 0.0.0.0 spotkfy.com
-0.0.0.0 cpotify.com
 0.0.0.0 spotiby.com
+0.0.0.0 stotify.com
 0.0.0.0 spotafy.com
 0.0.0.0 spopify.com
 0.0.0.0 sp0tlfy.com
@@ -62,11 +60,7 @@
 0.0.0.0 spotitfy.com
 0.0.0.0 spotifty.com
 0.0.0.0 spotidfy.com
-0.0.0.0 sapotify.com
-0.0.0.0 spotiofy.com
-0.0.0.0 spotrify.com
 0.0.0.0 yspotify.com
-0.0.0.0 spotoify.com
 0.0.0.0 spoftify.com
 0.0.0.0 spotifdy.com
 0.0.0.0 spotifry.com
@@ -80,10 +74,14 @@
 0.0.0.0 spoitify.com
 0.0.0.0 spootify.com
 0.0.0.0 spotfify.com
-0.0.0.0 spotuify.com
 0.0.0.0 qspotify.com
 0.0.0.0 xspotify.com
+0.0.0.0 spotoify.com
+0.0.0.0 spotiofy.com
+0.0.0.0 sapotify.com
+0.0.0.0 spotrify.com
 0.0.0.0 spoptify.com
+0.0.0.0 spotuify.com
 0.0.0.0 spotiy.com
 0.0.0.0 sotify.com
 0.0.0.0 sptify.com

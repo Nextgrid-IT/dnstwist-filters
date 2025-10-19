@@ -4,7 +4,6 @@
 0.0.0.0 ebayg.com
 0.0.0.0 ebayf.com
 0.0.0.0 ebay5.com
-0.0.0.0 ebayx.com
 0.0.0.0 ebaye.com
 0.0.0.0 ebayh.com
 0.0.0.0 ebaym.com
@@ -50,12 +49,11 @@
 0.0.0.0 eibay.com
 0.0.0.0 cbay.com
 0.0.0.0 xn--bay-9la.com
+0.0.0.0 elbay.com
 0.0.0.0 ellbay.com
 0.0.0.0 xn--eby-rla.com
-0.0.0.0 clbay.com
 0.0.0.0 xn--eby-jla.com
 0.0.0.0 eday.com
-0.0.0.0 elbay.com
 0.0.0.0 elday.com
 0.0.0.0 xn--bay-ema.com
 0.0.0.0 e-bay.com
@@ -78,7 +76,6 @@
 0.0.0.0 ebqay.com
 0.0.0.0 ebsay.com
 0.0.0.0 erbay.com
-0.0.0.0 egbay.com
 0.0.0.0 ebyay.com
 0.0.0.0 3ebay.com
 0.0.0.0 sebay.com
@@ -87,14 +84,16 @@
 0.0.0.0 ezbay.com
 0.0.0.0 e4bay.com
 0.0.0.0 ebazy.com
+0.0.0.0 esbay.com
 0.0.0.0 evbay.com
 0.0.0.0 webay.com
-0.0.0.0 esbay.com
-0.0.0.0 bay.com
+0.0.0.0 egbay.com
 0.0.0.0 eby.com
 0.0.0.0 eba.com
+0.0.0.0 bay.com
 0.0.0.0 ebaay.com
 0.0.0.0 eebay.com
+0.0.0.0 ebbay.com
 0.0.0.0 eba7.com
 0.0.0.0 ebsy.com
 0.0.0.0 enay.com
@@ -104,8 +103,8 @@
 0.0.0.0 ebat.com
 0.0.0.0 ebau.com
 0.0.0.0 eba6.com
-0.0.0.0 ebzy.com
 0.0.0.0 3bay.com
+0.0.0.0 ebzy.com
 0.0.0.0 ebag.com
 0.0.0.0 ebah.com
 0.0.0.0 wbay.com
@@ -118,7 +117,6 @@
 0.0.0.0 rbay.com
 0.0.0.0 4bay.com
 0.0.0.0 e.bay.com
-0.0.0.0 ebya.com
 0.0.0.0 eaby.com
 0.0.0.0 beay.com
 0.0.0.0 ebaycom.com

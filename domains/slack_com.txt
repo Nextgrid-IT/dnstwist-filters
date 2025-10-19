@@ -38,7 +38,6 @@
 0.0.0.0 slaek.com
 0.0.0.0 slacle.com
 0.0.0.0 selack.com
-0.0.0.0 zslack.com
 0.0.0.0 solack.com
 0.0.0.0 aslack.com
 0.0.0.0 slpack.com
@@ -55,7 +54,6 @@
 0.0.0.0 lack.com
 0.0.0.0 sllack.com
 0.0.0.0 slacck.com
-0.0.0.0 dlack.com
 0.0.0.0 slavk.com
 0.0.0.0 spack.com
 0.0.0.0 zlack.com

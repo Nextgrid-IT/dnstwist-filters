@@ -27,7 +27,6 @@
 0.0.0.0 homedepotz.com
 0.0.0.0 homedepoty.com
 0.0.0.0 homedapot.com
-0.0.0.0 holedepot.com
 0.0.0.0 hkmedepot.com
 0.0.0.0 hmmedepot.com
 0.0.0.0 hoeedepot.com

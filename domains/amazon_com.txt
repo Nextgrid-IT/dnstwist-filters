@@ -31,10 +31,10 @@
 0.0.0.0 amazon8.com
 0.0.0.0 amazond.com
 0.0.0.0 amazonz.com
-0.0.0.0 amazons.com
 0.0.0.0 amazonm.com
-0.0.0.0 amazone.com
+0.0.0.0 amazons.com
 0.0.0.0 amazon7.com
+0.0.0.0 amazone.com
 0.0.0.0 cmazon.com
 0.0.0.0 amaron.com
 0.0.0.0 aiazon.com
@@ -162,7 +162,6 @@
 0.0.0.0 aamazon.com
 0.0.0.0 amazoon.com
 0.0.0.0 amaton.com
-0.0.0.0 amaaon.com
 0.0.0.0 ama3on.com
 0.0.0.0 ajazon.com
 0.0.0.0 akazon.com

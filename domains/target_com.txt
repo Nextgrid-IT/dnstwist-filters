@@ -60,7 +60,6 @@
 0.0.0.0 parget.com
 0.0.0.0 4arget.com
 0.0.0.0 tqrget.com
-0.0.0.0 xn--trget-xqa.com
 0.0.0.0 xn--targt-esa.com
 0.0.0.0 targct.com
 0.0.0.0 tarqet.com
@@ -81,10 +80,10 @@
 0.0.0.0 targedt.com
 0.0.0.0 gtarget.com
 0.0.0.0 tqarget.com
+0.0.0.0 targe3t.com
 0.0.0.0 targhet.com
 0.0.0.0 rtarget.com
 0.0.0.0 tasrget.com
-0.0.0.0 targe3t.com
 0.0.0.0 targtet.com
 0.0.0.0 tatrget.com
 0.0.0.0 6target.com
@@ -142,8 +141,6 @@
 0.0.0.0 tarvet.com
 0.0.0.0 rarget.com
 0.0.0.0 tarzet.com
-0.0.0.0 targez.com
-0.0.0.0 farget.com
 0.0.0.0 tarbet.com
 0.0.0.0 targey.com
 0.0.0.0 targrt.com

@@ -52,7 +52,6 @@
 0.0.0.0 ubep.com
 0.0.0.0 ubeb.com
 0.0.0.0 ucler.com
-0.0.0.0 vder.com
 0.0.0.0 xn--ber-goa.com
 0.0.0.0 uder.com
 0.0.0.0 ulder.com
@@ -92,13 +91,13 @@
 0.0.0.0 ubeer.com
 0.0.0.0 ubber.com
 0.0.0.0 uuber.com
+0.0.0.0 ubee.com
 0.0.0.0 7ber.com
 0.0.0.0 ubrr.com
 0.0.0.0 yber.com
 0.0.0.0 zber.com
 0.0.0.0 iber.com
 0.0.0.0 ube5.com
-0.0.0.0 ubee.com
 0.0.0.0 ubsr.com
 0.0.0.0 uver.com
 0.0.0.0 ubed.com

@@ -8,6 +8,11 @@
 0.0.0.0 zoomo.us
 0.0.0.0 zoomq.us
 0.0.0.0 zoom1.us
+0.0.0.0 zoomk.us
+0.0.0.0 zoomz.us
+0.0.0.0 zoome.us
+0.0.0.0 zoomm.us
+0.0.0.0 zoomn.us
 0.0.0.0 zoomy.us
 0.0.0.0 zoomr.us
 0.0.0.0 zoomg.us
@@ -27,10 +32,10 @@
 0.0.0.0 z0om.us
 0.0.0.0 zoonm.us
 0.0.0.0 z00m.us
+0.0.0.0 zo0m.us
 0.0.0.0 zoon.us
 0.0.0.0 zo-om.us
 0.0.0.0 z-oom.us
-0.0.0.0 uzoom.us
 0.0.0.0 zioom.us
 0.0.0.0 zaoom.us
 0.0.0.0 zhoom.us
@@ -45,8 +50,11 @@
 0.0.0.0 szoom.us
 0.0.0.0 z0oom.us
 0.0.0.0 zoo0m.us
+0.0.0.0 uzoom.us
 0.0.0.0 zookm.us
 0.0.0.0 xzoom.us
+0.0.0.0 zopom.us
+0.0.0.0 zsoom.us
 0.0.0.0 ezoom.us
 0.0.0.0 gzoom.us
 0.0.0.0 tzoom.us
@@ -62,6 +70,7 @@
 0.0.0.0 2oom.us
 0.0.0.0 zpom.us
 0.0.0.0 soom.us
+0.0.0.0 toom.us
 0.0.0.0 uoom.us
 0.0.0.0 zoop.us
 0.0.0.0 goom.us

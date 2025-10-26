@@ -4,8 +4,8 @@
 0.0.0.0 lyftu.com
 0.0.0.0 lyftx.com
 0.0.0.0 lyfty.com
-0.0.0.0 lyftr.com
 0.0.0.0 lyftz.com
+0.0.0.0 lyftr.com
 0.0.0.0 lyft0.com
 0.0.0.0 lyft2.com
 0.0.0.0 lyftc.com
@@ -16,6 +16,8 @@
 0.0.0.0 lyfta.com
 0.0.0.0 lyftv.com
 0.0.0.0 myft.com
+0.0.0.0 lyfu.com
+0.0.0.0 nyft.com
 0.0.0.0 dyft.com
 0.0.0.0 lyfd.com
 0.0.0.0 lxft.com
@@ -32,10 +34,11 @@
 0.0.0.0 1yft.com
 0.0.0.0 iyft.com
 0.0.0.0 klyft.com
+0.0.0.0 lsyft.com
+0.0.0.0 lygft.com
 0.0.0.0 lysft.com
 0.0.0.0 olyft.com
 0.0.0.0 lyaft.com
-0.0.0.0 lsyft.com
 0.0.0.0 lycft.com
 0.0.0.0 loyft.com
 0.0.0.0 lyxft.com
@@ -47,13 +50,13 @@
 0.0.0.0 llyft.com
 0.0.0.0 kyft.com
 0.0.0.0 ltft.com
-0.0.0.0 lgft.com
 0.0.0.0 lyfy.com
 0.0.0.0 pyft.com
-0.0.0.0 luft.com
 0.0.0.0 lyf6.com
+0.0.0.0 luft.com
 0.0.0.0 lyfr.com
 0.0.0.0 lsft.com
+0.0.0.0 lgft.com
 0.0.0.0 l6ft.com
 0.0.0.0 lhft.com
 0.0.0.0 laft.com

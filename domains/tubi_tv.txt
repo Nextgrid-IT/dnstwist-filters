@@ -3,6 +3,7 @@
 0.0.0.0 tubie.tv
 0.0.0.0 tubik.tv
 0.0.0.0 tubit.tv
+0.0.0.0 tuby.tv
 0.0.0.0 dubi.tv
 0.0.0.0 tebi.tv
 0.0.0.0 tuba.tv
@@ -20,8 +21,7 @@
 0.0.0.0 zubi.tv
 0.0.0.0 fubi.tv
 0.0.0.0 tubu.tv
-0.0.0.0 tubi-tv.com
-0.0.0.0 tubitv.tv
 0.0.0.0 tubitv.com
+0.0.0.0 tubitv.tv
 0.0.0.0 tube.tv
 0.0.0.0 tobi.tv

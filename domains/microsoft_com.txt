@@ -9,7 +9,6 @@
 0.0.0.0 microsoftx.com
 0.0.0.0 microsoftl.com
 0.0.0.0 microsoftn.com
-0.0.0.0 microsoft2.com
 0.0.0.0 microsoftv.com
 0.0.0.0 microsoftk.com
 0.0.0.0 microsoftj.com
@@ -17,8 +16,8 @@
 0.0.0.0 microsoft4.com
 0.0.0.0 microsoft5.com
 0.0.0.0 microsofta.com
-0.0.0.0 microsoft3.com
 0.0.0.0 microsoftf.com
+0.0.0.0 microsoft2.com
 0.0.0.0 microsoftt.com
 0.0.0.0 microsoftc.com
 0.0.0.0 microsofte.com
@@ -32,8 +31,10 @@
 0.0.0.0 microsovt.com
 0.0.0.0 misrosoft.com
 0.0.0.0 microsofu.com
+0.0.0.0 microcoft.com
 0.0.0.0 micvosoft.com
 0.0.0.0 migrosoft.com
+0.0.0.0 microsnft.com
 0.0.0.0 macrosoft.com
 0.0.0.0 microsofd.com
 0.0.0.0 microsof4.com
@@ -58,7 +59,6 @@
 0.0.0.0 mikrosoft.com
 0.0.0.0 microsogt.com
 0.0.0.0 micrgsoft.com
-0.0.0.0 microsnft.com
 0.0.0.0 mnicrosoft.com
 0.0.0.0 xn--mcrosoft-c2a.com
 0.0.0.0 mlcros0ft.com
@@ -101,6 +101,7 @@
 0.0.0.0 xn--micosof-emd9545d.com
 0.0.0.0 xn--micrsoft-p3a.com
 0.0.0.0 xn--microoft-l9c.com
+0.0.0.0 xn--microsot-x9b.com
 0.0.0.0 xn--mcrosoft-21a.com
 0.0.0.0 xn--rnicrosft-67a.com
 0.0.0.0 xn--microsof-hk0d.com
@@ -108,8 +109,8 @@
 0.0.0.0 mi-crosoft.com
 0.0.0.0 micros-oft.com
 0.0.0.0 microsof-t.com
-0.0.0.0 micr-osoft.com
 0.0.0.0 micro-soft.com
+0.0.0.0 micr-osoft.com
 0.0.0.0 microisoft.com
 0.0.0.0 microsdoft.com
 0.0.0.0 microsofdt.com
@@ -127,7 +128,6 @@
 0.0.0.0 microseoft.com
 0.0.0.0 microysoft.com
 0.0.0.0 microsovft.com
-0.0.0.0 micropsoft.com
 0.0.0.0 lmicrosoft.com
 0.0.0.0 micfrosoft.com
 0.0.0.0 pmicrosoft.com
@@ -178,6 +178,7 @@
 0.0.0.0 microsofct.com
 0.0.0.0 microsofvt.com
 0.0.0.0 microdsoft.com
+0.0.0.0 micropsoft.com
 0.0.0.0 micdrosoft.com
 0.0.0.0 micrfosoft.com
 0.0.0.0 mifcrosoft.com
@@ -191,6 +192,7 @@
 0.0.0.0 microsot.com
 0.0.0.0 micrsoft.com
 0.0.0.0 mirosoft.com
+0.0.0.0 micsrosoft.com
 0.0.0.0 microssoft.com
 0.0.0.0 micrsosoft.com
 0.0.0.0 micrososft.com
@@ -210,6 +212,7 @@
 0.0.0.0 mictosoft.com
 0.0.0.0 mivrosoft.com
 0.0.0.0 microsort.com
+0.0.0.0 microaoft.com
 0.0.0.0 mjcrosoft.com
 0.0.0.0 m8crosoft.com
 0.0.0.0 microsott.com
@@ -217,7 +220,6 @@
 0.0.0.0 kicrosoft.com
 0.0.0.0 microsofy.com
 0.0.0.0 microsofz.com
-0.0.0.0 microaoft.com
 0.0.0.0 micrpsoft.com
 0.0.0.0 miceosoft.com
 0.0.0.0 microdoft.com

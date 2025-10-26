@@ -56,6 +56,7 @@
 0.0.0.0 paqndora.com
 0.0.0.0 pabndora.com
 0.0.0.0 lpandora.com
+0.0.0.0 plandora.com
 0.0.0.0 pandoira.com
 0.0.0.0 pandorta.com
 0.0.0.0 pandotra.com
@@ -63,12 +64,12 @@
 0.0.0.0 pandodra.com
 0.0.0.0 pandrora.com
 0.0.0.0 panmdora.com
-0.0.0.0 pandpora.com
 0.0.0.0 pansdora.com
 0.0.0.0 pandorea.com
-0.0.0.0 plandora.com
 0.0.0.0 pandoera.com
 0.0.0.0 pandsora.com
+0.0.0.0 pandpora.com
+0.0.0.0 pandra.com
 0.0.0.0 pandoa.com
 0.0.0.0 pandor.com
 0.0.0.0 pndora.com
@@ -82,6 +83,10 @@
 0.0.0.0 paandora.com
 0.0.0.0 psndora.com
 0.0.0.0 panxora.com
+0.0.0.0 pansora.com
+0.0.0.0 pandota.com
+0.0.0.0 panrora.com
+0.0.0.0 pandpra.com
 0.0.0.0 pandoda.com
 0.0.0.0 pancora.com
 0.0.0.0 pandira.com
@@ -102,9 +107,10 @@
 0.0.0.0 pandoar.com
 0.0.0.0 pandroa.com
 0.0.0.0 panodra.com
-0.0.0.0 padnora.com
 0.0.0.0 pnadora.com
+0.0.0.0 padnora.com
 0.0.0.0 pandoracom.com
+0.0.0.0 pondora.com
 0.0.0.0 pandera.com
 0.0.0.0 pandura.com
 0.0.0.0 pundora.com

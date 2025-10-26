@@ -2,8 +2,9 @@
 0.0.0.0 coinbasef.com
 0.0.0.0 coinbasei.com
 0.0.0.0 coinbaset.com
-0.0.0.0 coinbased.com
 0.0.0.0 coinbase1.com
+0.0.0.0 coinbase6.com
+0.0.0.0 coinbase8.com
 0.0.0.0 coinbaser.com
 0.0.0.0 coinbasec.com
 0.0.0.0 coinbase5.com
@@ -29,6 +30,7 @@
 0.0.0.0 koinbase.com
 0.0.0.0 soinbase.com
 0.0.0.0 xn--oinbase-txa.com
+0.0.0.0 xn--conbase-sfb.com
 0.0.0.0 xn--cobase-4va24e.com
 0.0.0.0 xn--coinbas-z8a.com
 0.0.0.0 colnbase.com
@@ -40,7 +42,6 @@
 0.0.0.0 xn--coibase-r13c.com
 0.0.0.0 xn--coinbse-t4a.com
 0.0.0.0 xn--conbase-gw4c.com
-0.0.0.0 xn--conbase-sfb.com
 0.0.0.0 coindase.com
 0.0.0.0 xn--conbse-sta7g.com
 0.0.0.0 xn--cnbase-3va1c.com
@@ -197,8 +198,8 @@
 0.0.0.0 oinbase.com
 0.0.0.0 coinsbase.com
 0.0.0.0 ccoinbase.com
-0.0.0.0 coonbase.com
 0.0.0.0 coinbasw.com
+0.0.0.0 coinbade.com
 0.0.0.0 cpinbase.com
 0.0.0.0 coinnase.com
 0.0.0.0 c9inbase.com
@@ -226,6 +227,7 @@
 0.0.0.0 foinbase.com
 0.0.0.0 voinbase.com
 0.0.0.0 xoinbase.com
+0.0.0.0 coi.nbase.com
 0.0.0.0 coinb.ase.com
 0.0.0.0 cionbase.com
 0.0.0.0 coinabse.com

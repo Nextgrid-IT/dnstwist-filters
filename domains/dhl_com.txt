@@ -1,5 +1,4 @@
 0.0.0.0 dhl.com
-0.0.0.0 dhlp.com
 0.0.0.0 dhlc.com
 0.0.0.0 dhla.com
 0.0.0.0 dhl9.com
@@ -52,7 +51,6 @@
 0.0.0.0 lbhl.com
 0.0.0.0 clhi.com
 0.0.0.0 dihl.com
-0.0.0.0 dlh1.com
 0.0.0.0 dhi.com
 0.0.0.0 d-hl.com
 0.0.0.0 djhl.com
@@ -77,8 +75,8 @@
 0.0.0.0 dfhl.com
 0.0.0.0 dhgl.com
 0.0.0.0 dhul.com
-0.0.0.0 hl.com
 0.0.0.0 dl.com
+0.0.0.0 hl.com
 0.0.0.0 dh.com
 0.0.0.0 ddhl.com
 0.0.0.0 dhhl.com

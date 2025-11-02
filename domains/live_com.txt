@@ -19,8 +19,6 @@
 0.0.0.0 liveg.com
 0.0.0.0 live6.com
 0.0.0.0 livev.com
-0.0.0.0 livey.com
-0.0.0.0 livew.com
 0.0.0.0 live8.com
 0.0.0.0 livea.com
 0.0.0.0 livei.com
@@ -100,7 +98,6 @@
 0.0.0.0 lve.com
 0.0.0.0 ive.com
 0.0.0.0 livve.com
-0.0.0.0 llive.com
 0.0.0.0 liive.com
 0.0.0.0 liv3.com
 0.0.0.0 l8ve.com

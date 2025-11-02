@@ -15,10 +15,10 @@
 0.0.0.0 fmdex.com
 0.0.0.0 fetex.com
 0.0.0.0 fedmx.com
-0.0.0.0 fedey.com
 0.0.0.0 fudex.com
 0.0.0.0 feddx.com
 0.0.0.0 gedex.com
+0.0.0.0 fedey.com
 0.0.0.0 fgdex.com
 0.0.0.0 vedex.com
 0.0.0.0 bedex.com
@@ -27,15 +27,16 @@
 0.0.0.0 fadex.com
 0.0.0.0 nedex.com
 0.0.0.0 feblex.com
+0.0.0.0 xn--fedx-dpa.com
 0.0.0.0 feclex.com
-0.0.0.0 fcdex.com
 0.0.0.0 fedlex.com
 0.0.0.0 fedcx.com
 0.0.0.0 fediex.com
 0.0.0.0 felbex.com
 0.0.0.0 febcx.com
-0.0.0.0 feciex.com
 0.0.0.0 febex.com
+0.0.0.0 fcdex.com
+0.0.0.0 feciex.com
 0.0.0.0 f-edex.com
 0.0.0.0 fed-ex.com
 0.0.0.0 fede-x.com
@@ -44,7 +45,6 @@
 0.0.0.0 fefdex.com
 0.0.0.0 fecdex.com
 0.0.0.0 dfedex.com
-0.0.0.0 fedsex.com
 0.0.0.0 fexdex.com
 0.0.0.0 fe4dex.com
 0.0.0.0 fedrex.com
@@ -61,8 +61,8 @@
 0.0.0.0 cedex.com
 0.0.0.0 ferex.com
 0.0.0.0 fzdex.com
-0.0.0.0 fedrx.com
 0.0.0.0 redex.com
+0.0.0.0 fedrx.com
 0.0.0.0 tedex.com
 0.0.0.0 feded.com
 0.0.0.0 fedsx.com
@@ -79,5 +79,5 @@
 0.0.0.0 feedx.com
 0.0.0.0 fedox.com
 0.0.0.0 fodex.com
-0.0.0.0 fidex.com
 0.0.0.0 fedix.com
+0.0.0.0 fidex.com

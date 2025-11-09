@@ -1,18 +1,17 @@
 0.0.0.0 etsy.com
-0.0.0.0 etsy6.com
 0.0.0.0 etsyt.com
 0.0.0.0 etsys.com
 0.0.0.0 etsyc.com
 0.0.0.0 etsyu.com
 0.0.0.0 etsyi.com
+0.0.0.0 etsy0.com
+0.0.0.0 etsy6.com
 0.0.0.0 etsy2.com
 0.0.0.0 etsyx.com
 0.0.0.0 etsy8.com
 0.0.0.0 etsyw.com
 0.0.0.0 etsyq.com
 0.0.0.0 etsye.com
-0.0.0.0 etsy0.com
-0.0.0.0 etsyl.com
 0.0.0.0 etsyz.com
 0.0.0.0 etsyn.com
 0.0.0.0 etsyh.com
@@ -21,6 +20,7 @@
 0.0.0.0 etsyf.com
 0.0.0.0 etsyr.com
 0.0.0.0 etsya.com
+0.0.0.0 etsyl.com
 0.0.0.0 etsyb.com
 0.0.0.0 etsyd.com
 0.0.0.0 etwy.com
@@ -30,12 +30,12 @@
 0.0.0.0 mtsy.com
 0.0.0.0 etsx.com
 0.0.0.0 gtsy.com
+0.0.0.0 etcy.com
 0.0.0.0 epsy.com
 0.0.0.0 et3y.com
 0.0.0.0 ets9.com
 0.0.0.0 evsy.com
 0.0.0.0 utsy.com
-0.0.0.0 etcy.com
 0.0.0.0 etry.com
 0.0.0.0 etqy.com
 0.0.0.0 ctsy.com
@@ -50,7 +50,6 @@
 0.0.0.0 etsay.com
 0.0.0.0 etsdy.com
 0.0.0.0 detsy.com
-0.0.0.0 etasy.com
 0.0.0.0 etzsy.com
 0.0.0.0 zetsy.com
 0.0.0.0 etswy.com
@@ -61,6 +60,7 @@
 0.0.0.0 etszy.com
 0.0.0.0 ewtsy.com
 0.0.0.0 e3tsy.com
+0.0.0.0 etasy.com
 0.0.0.0 etfsy.com
 0.0.0.0 etgsy.com
 0.0.0.0 etesy.com
@@ -71,7 +71,9 @@
 0.0.0.0 ety.com
 0.0.0.0 tsy.com
 0.0.0.0 eetsy.com
+0.0.0.0 etssy.com
 0.0.0.0 ettsy.com
+0.0.0.0 etxy.com
 0.0.0.0 3tsy.com
 0.0.0.0 e5sy.com
 0.0.0.0 etsg.com
@@ -86,6 +88,7 @@
 0.0.0.0 etsu.com
 0.0.0.0 egsy.com
 0.0.0.0 etey.com
+0.0.0.0 rtsy.com
 0.0.0.0 etss.com
 0.0.0.0 etzy.com
 0.0.0.0 e6sy.com
@@ -94,9 +97,7 @@
 0.0.0.0 ezsy.com
 0.0.0.0 etst.com
 0.0.0.0 4tsy.com
-0.0.0.0 rtsy.com
 0.0.0.0 wtsy.com
-0.0.0.0 etxy.com
 0.0.0.0 tesy.com
 0.0.0.0 esty.com
 0.0.0.0 etsycom.com

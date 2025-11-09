@@ -1,4 +1,6 @@
 0.0.0.0 expedia.com
+0.0.0.0 expediau.com
+0.0.0.0 expediay.com
 0.0.0.0 expedia8.com
 0.0.0.0 expedia1.com
 0.0.0.0 expediad.com

@@ -2,7 +2,6 @@
 0.0.0.0 targetu.com
 0.0.0.0 targetc.com
 0.0.0.0 targetw.com
-0.0.0.0 targett.com
 0.0.0.0 target7.com
 0.0.0.0 targetk.com
 0.0.0.0 target2.com
@@ -14,6 +13,7 @@
 0.0.0.0 target8.com
 0.0.0.0 target5.com
 0.0.0.0 target3.com
+0.0.0.0 targett.com
 0.0.0.0 target1.com
 0.0.0.0 targetd.com
 0.0.0.0 targeto.com
@@ -73,6 +73,7 @@
 0.0.0.0 t-arget.com
 0.0.0.0 tar-get.com
 0.0.0.0 targwet.com
+0.0.0.0 tasrget.com
 0.0.0.0 taerget.com
 0.0.0.0 ytarget.com
 0.0.0.0 tarhget.com
@@ -82,11 +83,9 @@
 0.0.0.0 gtarget.com
 0.0.0.0 targhet.com
 0.0.0.0 rtarget.com
-0.0.0.0 tasrget.com
 0.0.0.0 targtet.com
 0.0.0.0 tatrget.com
 0.0.0.0 6target.com
-0.0.0.0 targe3t.com
 0.0.0.0 5target.com
 0.0.0.0 ftarget.com
 0.0.0.0 t5arget.com
@@ -126,6 +125,7 @@
 0.0.0.0 targert.com
 0.0.0.0 targret.com
 0.0.0.0 tartget.com
+0.0.0.0 targe3t.com
 0.0.0.0 taget.com
 0.0.0.0 arget.com
 0.0.0.0 taret.com
@@ -142,6 +142,7 @@
 0.0.0.0 rarget.com
 0.0.0.0 tarzet.com
 0.0.0.0 targez.com
+0.0.0.0 farget.com
 0.0.0.0 tarbet.com
 0.0.0.0 targey.com
 0.0.0.0 targrt.com

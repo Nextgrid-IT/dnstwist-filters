@@ -27,6 +27,7 @@
 0.0.0.0 sdack.com
 0.0.0.0 snack.com
 0.0.0.0 slick.com
+0.0.0.0 slabk.com
 0.0.0.0 slaci.com
 0.0.0.0 qlack.com
 0.0.0.0 slacc.com
@@ -64,12 +65,11 @@
 0.0.0.0 soack.com
 0.0.0.0 alack.com
 0.0.0.0 slacm.com
-0.0.0.0 slsck.com
 0.0.0.0 slyck.com
 0.0.0.0 slacl.com
-0.0.0.0 slaxk.com
 0.0.0.0 elack.com
 0.0.0.0 sl1ck.com
+0.0.0.0 slsck.com
 0.0.0.0 sladk.com
 0.0.0.0 slakc.com
 0.0.0.0 lsack.com

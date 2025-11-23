@@ -3,14 +3,15 @@
 0.0.0.0 etsys.com
 0.0.0.0 etsyc.com
 0.0.0.0 etsyu.com
+0.0.0.0 etsyi.com
 0.0.0.0 etsy0.com
 0.0.0.0 etsy6.com
 0.0.0.0 etsya.com
 0.0.0.0 etsy2.com
 0.0.0.0 etsyx.com
 0.0.0.0 etsy8.com
+0.0.0.0 etsyw.com
 0.0.0.0 etsye.com
-0.0.0.0 etsyi.com
 0.0.0.0 etsyz.com
 0.0.0.0 etsyn.com
 0.0.0.0 etsyh.com

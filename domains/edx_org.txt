@@ -41,7 +41,6 @@
 0.0.0.0 ex.org
 0.0.0.0 3dx.org
 0.0.0.0 4dx.org
-0.0.0.0 ecx.org
 0.0.0.0 edw.org
 0.0.0.0 sdx.org
 0.0.0.0 zdx.org
@@ -50,6 +49,7 @@
 0.0.0.0 edd.org
 0.0.0.0 wdx.org
 0.0.0.0 erx.org
+0.0.0.0 ecx.org
 0.0.0.0 rdx.org
 0.0.0.0 esx.org
 0.0.0.0 eds.org

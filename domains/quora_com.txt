@@ -35,9 +35,9 @@
 0.0.0.0 quoba.com
 0.0.0.0 qeora.com
 0.0.0.0 quorc.com
+0.0.0.0 gvora.com
 0.0.0.0 qv0ra.com
 0.0.0.0 qvora.com
-0.0.0.0 gvora.com
 0.0.0.0 qu0ra.com
 0.0.0.0 guora.com
 0.0.0.0 quodra.com
@@ -61,7 +61,6 @@
 0.0.0.0 qwuora.com
 0.0.0.0 qyuora.com
 0.0.0.0 quiora.com
-0.0.0.0 quzora.com
 0.0.0.0 qura.com
 0.0.0.0 qora.com
 0.0.0.0 uora.com

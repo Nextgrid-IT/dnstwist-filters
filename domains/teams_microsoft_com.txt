@@ -21,6 +21,7 @@
 0.0.0.0 teams.macrosoft.com
 0.0.0.0 teams.microsofd.com
 0.0.0.0 teams.microsof4.com
+0.0.0.0 teams.micrgsoft.com
 0.0.0.0 teams.licrosoft.com
 0.0.0.0 teams.microroft.com
 0.0.0.0 teams.microsmft.com
@@ -31,7 +32,6 @@
 0.0.0.0 teams.mibrosoft.com
 0.0.0.0 teams.microwoft.com
 0.0.0.0 teams.microsogt.com
-0.0.0.0 teams.micrgsoft.com
 0.0.0.0 teams.micro3oft.com
 0.0.0.0 teams.microskft.com
 0.0.0.0 teams.mnicrosoft.com
@@ -98,7 +98,6 @@
 0.0.0.0 teams.microdsoft.com
 0.0.0.0 teams.micropsoft.com
 0.0.0.0 teams.micfrosoft.com
-0.0.0.0 teams.micdrosoft.com
 0.0.0.0 teams.mifcrosoft.com
 0.0.0.0 teams.micosoft.com
 0.0.0.0 teams.microsot.com

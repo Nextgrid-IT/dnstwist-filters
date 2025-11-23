@@ -3,15 +3,16 @@
 0.0.0.0 venmon.com
 0.0.0.0 venmom.com
 0.0.0.0 venmoh.com
+0.0.0.0 venmoo.com
 0.0.0.0 venmod.com
 0.0.0.0 venmor.com
 0.0.0.0 venmoe.com
-0.0.0.0 venmoo.com
 0.0.0.0 venmob.com
 0.0.0.0 venmou.com
 0.0.0.0 vanmo.com
 0.0.0.0 venlo.com
 0.0.0.0 vunmo.com
+0.0.0.0 fenmo.com
 0.0.0.0 wenmo.com
 0.0.0.0 veneo.com
 0.0.0.0 venio.com
@@ -30,8 +31,8 @@
 0.0.0.0 vcrmo.com
 0.0.0.0 vennno.com
 0.0.0.0 verro.com
-0.0.0.0 vemno.com
 0.0.0.0 uemmo.com
+0.0.0.0 vemno.com
 0.0.0.0 venn0.com
 0.0.0.0 vernno.com
 0.0.0.0 venno.com

@@ -49,6 +49,7 @@
 0.0.0.0 etsay.com
 0.0.0.0 etsdy.com
 0.0.0.0 detsy.com
+0.0.0.0 etasy.com
 0.0.0.0 etzsy.com
 0.0.0.0 zetsy.com
 0.0.0.0 etswy.com
@@ -59,12 +60,11 @@
 0.0.0.0 etszy.com
 0.0.0.0 ewtsy.com
 0.0.0.0 e3tsy.com
-0.0.0.0 etasy.com
 0.0.0.0 etfsy.com
 0.0.0.0 etgsy.com
 0.0.0.0 etdsy.com
-0.0.0.0 wetsy.com
 0.0.0.0 etesy.com
+0.0.0.0 wetsy.com
 0.0.0.0 ets.com
 0.0.0.0 esy.com
 0.0.0.0 ety.com

@@ -4,6 +4,7 @@
 0.0.0.0 hbomaxz.com
 0.0.0.0 hbomaxs.com
 0.0.0.0 hbomax1.com
+0.0.0.0 hbomqx.com
 0.0.0.0 hbmmax.com
 0.0.0.0 hbomaz.com
 0.0.0.0 hfomax.com
@@ -14,14 +15,15 @@
 0.0.0.0 xbomax.com
 0.0.0.0 hbommax.com
 0.0.0.0 hbonax.com
-0.0.0.0 hbornax.com
 0.0.0.0 hdomax.com
+0.0.0.0 hbornax.com
 0.0.0.0 hbomnax.com
 0.0.0.0 hb0max.com
 0.0.0.0 hbo-max.com
 0.0.0.0 hbiomax.com
 0.0.0.0 hbbomax.com
 0.0.0.0 hhbomax.com
+0.0.0.0 hbhomax.com
 0.0.0.0 hbomasx.com
 0.0.0.0 hblomax.com
 0.0.0.0 bhbomax.com
@@ -41,9 +43,9 @@
 0.0.0.0 hvomax.com
 0.0.0.0 nbomax.com
 0.0.0.0 bbomax.com
-0.0.0.0 hbomwx.com
 0.0.0.0 hbomad.com
 0.0.0.0 hbomas.com
+0.0.0.0 hbomwx.com
 0.0.0.0 hbom.ax.com
 0.0.0.0 hbo.max.com
 0.0.0.0 bhomax.com

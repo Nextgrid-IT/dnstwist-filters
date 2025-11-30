@@ -1,11 +1,10 @@
 0.0.0.0 edx.org
+0.0.0.0 edxr.org
 0.0.0.0 edxt.org
 0.0.0.0 edxc.org
 0.0.0.0 edxx.org
 0.0.0.0 edxl.org
-0.0.0.0 edxm.org
 0.0.0.0 edxa.org
-0.0.0.0 edxr.org
 0.0.0.0 edxq.org
 0.0.0.0 edy.org
 0.0.0.0 etx.org
@@ -13,8 +12,8 @@
 0.0.0.0 ddx.org
 0.0.0.0 edh.org
 0.0.0.0 eex.org
-0.0.0.0 efx.org
 0.0.0.0 udx.org
+0.0.0.0 efx.org
 0.0.0.0 edp.org
 0.0.0.0 elx.org
 0.0.0.0 mdx.org

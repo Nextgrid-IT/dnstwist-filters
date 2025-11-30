@@ -36,13 +36,13 @@
 0.0.0.0 xn--coinbas-z8a.com
 0.0.0.0 colnbase.com
 0.0.0.0 coirnbase.com
-0.0.0.0 xn--coinbas-xs4c.com
 0.0.0.0 xn--cnbase-3wb2480d.com
 0.0.0.0 xn--cobase-xeb3551d.com
 0.0.0.0 xn--coibase-mkb.com
 0.0.0.0 xn--coibase-r13c.com
 0.0.0.0 xn--coinbse-t4a.com
 0.0.0.0 xn--conbase-gw4c.com
+0.0.0.0 xn--coinbas-xs4c.com
 0.0.0.0 coindase.com
 0.0.0.0 xn--conbse-sta7g.com
 0.0.0.0 xn--cnbase-3va1c.com

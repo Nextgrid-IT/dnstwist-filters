@@ -50,8 +50,8 @@
 0.0.0.0 salack.com
 0.0.0.0 zslack.com
 0.0.0.0 sylack.com
-0.0.0.0 dslack.com
 0.0.0.0 yslack.com
+0.0.0.0 dslack.com
 0.0.0.0 sack.com
 0.0.0.0 slak.com
 0.0.0.0 slac.com
@@ -68,11 +68,11 @@
 0.0.0.0 soack.com
 0.0.0.0 alack.com
 0.0.0.0 slacm.com
+0.0.0.0 slsck.com
 0.0.0.0 slyck.com
 0.0.0.0 slacl.com
 0.0.0.0 elack.com
 0.0.0.0 sl1ck.com
-0.0.0.0 slsck.com
 0.0.0.0 sladk.com
 0.0.0.0 slakc.com
 0.0.0.0 lsack.com

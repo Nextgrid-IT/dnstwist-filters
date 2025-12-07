@@ -3,8 +3,6 @@
 0.0.0.0 coinbasei.com
 0.0.0.0 coinbaset.com
 0.0.0.0 coinbased.com
-0.0.0.0 coinbase6.com
-0.0.0.0 coinbase8.com
 0.0.0.0 coinbase1.com
 0.0.0.0 coinbasex.com
 0.0.0.0 coinbaser.com
@@ -190,8 +188,8 @@
 0.0.0.0 dcoinbase.com
 0.0.0.0 fcoinbase.com
 0.0.0.0 xcoinbase.com
-0.0.0.0 conbase.com
 0.0.0.0 coinase.com
+0.0.0.0 conbase.com
 0.0.0.0 cinbase.com
 0.0.0.0 coibase.com
 0.0.0.0 oinbase.com

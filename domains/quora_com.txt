@@ -1,12 +1,13 @@
 0.0.0.0 quora.com
 0.0.0.0 quora8.com
+0.0.0.0 quoram.com
 0.0.0.0 quoran.com
 0.0.0.0 quoras.com
-0.0.0.0 quoraq.com
 0.0.0.0 quorai.com
 0.0.0.0 quorao.com
 0.0.0.0 quorah.com
 0.0.0.0 quorat.com
+0.0.0.0 quoraq.com
 0.0.0.0 quorad.com
 0.0.0.0 quoral.com
 0.0.0.0 quorae.com
@@ -15,8 +16,10 @@
 0.0.0.0 quora9.com
 0.0.0.0 quoraz.com
 0.0.0.0 quoza.com
+0.0.0.0 auora.com
 0.0.0.0 quorq.com
 0.0.0.0 qugra.com
+0.0.0.0 quopa.com
 0.0.0.0 puora.com
 0.0.0.0 qunra.com
 0.0.0.0 qumra.com
@@ -24,11 +27,11 @@
 0.0.0.0 quova.com
 0.0.0.0 quore.com
 0.0.0.0 yuora.com
-0.0.0.0 qukra.com
 0.0.0.0 qwora.com
 0.0.0.0 quosa.com
 0.0.0.0 qtora.com
 0.0.0.0 1uora.com
+0.0.0.0 qukra.com
 0.0.0.0 suora.com
 0.0.0.0 quoba.com
 0.0.0.0 qeora.com
@@ -69,6 +72,7 @@
 0.0.0.0 quuora.com
 0.0.0.0 qhora.com
 0.0.0.0 qulra.com
+0.0.0.0 wuora.com
 0.0.0.0 quo4a.com
 0.0.0.0 quorz.com
 0.0.0.0 qiora.com
@@ -91,9 +95,9 @@
 0.0.0.0 quroa.com
 0.0.0.0 uqora.com
 0.0.0.0 quura.com
-0.0.0.0 qoora.com
 0.0.0.0 quera.com
 0.0.0.0 quara.com
+0.0.0.0 qoora.com
 0.0.0.0 qaora.com
 0.0.0.0 quoru.com
 0.0.0.0 quoro.com

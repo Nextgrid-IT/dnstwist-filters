@@ -188,8 +188,8 @@
 0.0.0.0 dcoinbase.com
 0.0.0.0 fcoinbase.com
 0.0.0.0 xcoinbase.com
-0.0.0.0 coinase.com
 0.0.0.0 conbase.com
+0.0.0.0 coinase.com
 0.0.0.0 cinbase.com
 0.0.0.0 coibase.com
 0.0.0.0 oinbase.com

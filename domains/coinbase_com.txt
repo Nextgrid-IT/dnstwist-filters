@@ -52,6 +52,7 @@
 0.0.0.0 xn--coinbse-lwa.com
 0.0.0.0 xn--conase-krb8401d.com
 0.0.0.0 xn--coibas-yt7b11b.com
+0.0.0.0 xn--coinbse-dwa.com
 0.0.0.0 xn--conase-4va13j.com
 0.0.0.0 xn--conase-krb4601d.com
 0.0.0.0 xn--conase-krb82p.com

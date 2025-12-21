@@ -19,17 +19,16 @@
 0.0.0.0 binancef.com
 0.0.0.0 binancel.com
 0.0.0.0 binancek.com
-0.0.0.0 binance2.com
 0.0.0.0 binancee.com
+0.0.0.0 binanceo.com
 0.0.0.0 binancec.com
+0.0.0.0 binance3.com
 0.0.0.0 binancex.com
 0.0.0.0 binance4.com
 0.0.0.0 binancey.com
 0.0.0.0 binanceh.com
 0.0.0.0 binancer.com
 0.0.0.0 binance5.com
-0.0.0.0 binance3.com
-0.0.0.0 binanceo.com
 0.0.0.0 binaoce.com
 0.0.0.0 binancd.com
 0.0.0.0 binancu.com
@@ -68,6 +67,7 @@
 0.0.0.0 xn--binace-zeb.com
 0.0.0.0 b1nance.com
 0.0.0.0 birance.com
+0.0.0.0 1binance.com
 0.0.0.0 binarcc.com
 0.0.0.0 ibinance.com
 0.0.0.0 xn--bance-5sa5073c.com
@@ -77,13 +77,9 @@
 0.0.0.0 blmance.com
 0.0.0.0 lblnance.com
 0.0.0.0 xn--bance-b4a5n.com
-0.0.0.0 1binance.com
 0.0.0.0 binaree.com
-0.0.0.0 xn--biance-jeb.com
-0.0.0.0 binarnce.com
 0.0.0.0 dinarce.com
 0.0.0.0 xn--nance-m4a10d.com
-0.0.0.0 xn--binace-leb.com
 0.0.0.0 clinance.com
 0.0.0.0 bimance.com
 0.0.0.0 binanec.com
@@ -94,7 +90,6 @@
 0.0.0.0 xn--binanc-gva.com
 0.0.0.0 xn--binanc-n4a.com
 0.0.0.0 xn--bnnce-sqa6f.com
-0.0.0.0 xn--inance-hrb.com
 0.0.0.0 binanc-e.com
 0.0.0.0 bin-ance.com
 0.0.0.0 b-inance.com
@@ -104,6 +99,7 @@
 0.0.0.0 binancxe.com
 0.0.0.0 bninance.com
 0.0.0.0 bihnance.com
+0.0.0.0 biunance.com
 0.0.0.0 binbance.com
 0.0.0.0 binanmce.com
 0.0.0.0 binamnce.com
@@ -117,7 +113,6 @@
 0.0.0.0 buinance.com
 0.0.0.0 bvinance.com
 0.0.0.0 nbinance.com
-0.0.0.0 biunance.com
 0.0.0.0 b9inance.com
 0.0.0.0 bginance.com
 0.0.0.0 bi8nance.com
@@ -133,8 +128,8 @@
 0.0.0.0 binwance.com
 0.0.0.0 binzance.com
 0.0.0.0 binmance.com
-0.0.0.0 binancde.com
 0.0.0.0 boinance.com
+0.0.0.0 binancde.com
 0.0.0.0 bhinance.com
 0.0.0.0 b8inance.com
 0.0.0.0 binawnce.com
@@ -159,6 +154,7 @@
 0.0.0.0 binancce.com
 0.0.0.0 binancz.com
 0.0.0.0 binwnce.com
+0.0.0.0 bihance.com
 0.0.0.0 bibance.com
 0.0.0.0 ginance.com
 0.0.0.0 vinance.com
@@ -171,7 +167,6 @@
 0.0.0.0 binanc3.com
 0.0.0.0 binancs.com
 0.0.0.0 binanfe.com
-0.0.0.0 bihance.com
 0.0.0.0 bin1nce.com
 0.0.0.0 ninance.com
 0.0.0.0 b9nance.com

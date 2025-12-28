@@ -26,13 +26,13 @@
 0.0.0.0 thl.com
 0.0.0.0 dhd.com
 0.0.0.0 dxl.com
+0.0.0.0 lhl.com
 0.0.0.0 dhh.com
 0.0.0.0 djl.com
 0.0.0.0 dhm.com
 0.0.0.0 dhn.com
 0.0.0.0 ehl.com
 0.0.0.0 fhl.com
-0.0.0.0 lhl.com
 0.0.0.0 dil.com
 0.0.0.0 dll.com
 0.0.0.0 xn--hl-pss.com
@@ -44,7 +44,6 @@
 0.0.0.0 xn--dh-zoa.com
 0.0.0.0 clh1.com
 0.0.0.0 bhl.com
-0.0.0.0 bh1.com
 0.0.0.0 blhl.com
 0.0.0.0 clhl.com
 0.0.0.0 dlhl.com
@@ -88,6 +87,7 @@
 0.0.0.0 xhl.com
 0.0.0.0 dbl.com
 0.0.0.0 dhp.com
+0.0.0.0 chl.com
 0.0.0.0 dgl.com
 0.0.0.0 dnl.com
 0.0.0.0 dyl.com

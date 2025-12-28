@@ -23,13 +23,11 @@
 0.0.0.0 live8.com
 0.0.0.0 livea.com
 0.0.0.0 livei.com
-0.0.0.0 liveu.com
 0.0.0.0 livee.com
 0.0.0.0 liveo.com
 0.0.0.0 livec.com
 0.0.0.0 livet.com
 0.0.0.0 lite.com
-0.0.0.0 li6e.com
 0.0.0.0 livd.com
 0.0.0.0 livu.com
 0.0.0.0 livm.com
@@ -64,8 +62,8 @@
 0.0.0.0 i1ve.com
 0.0.0.0 11ve.com
 0.0.0.0 liuc.com
-0.0.0.0 llve.com
 0.0.0.0 ilve.com
+0.0.0.0 llve.com
 0.0.0.0 iiue.com
 0.0.0.0 iivc.com
 0.0.0.0 llue.com
@@ -97,8 +95,8 @@
 0.0.0.0 mlive.com
 0.0.0.0 lie.com
 0.0.0.0 liv.com
-0.0.0.0 lve.com
 0.0.0.0 ive.com
+0.0.0.0 lve.com
 0.0.0.0 livve.com
 0.0.0.0 llive.com
 0.0.0.0 liive.com

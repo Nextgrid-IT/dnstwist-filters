@@ -2,6 +2,7 @@
 0.0.0.0 quora8.com
 0.0.0.0 quoram.com
 0.0.0.0 quoran.com
+0.0.0.0 quorar.com
 0.0.0.0 quoras.com
 0.0.0.0 quoraq.com
 0.0.0.0 quorai.com
@@ -65,7 +66,6 @@
 0.0.0.0 qora.com
 0.0.0.0 uora.com
 0.0.0.0 quor.com
-0.0.0.0 quoa.com
 0.0.0.0 quorra.com
 0.0.0.0 qquora.com
 0.0.0.0 quoora.com

@@ -12,8 +12,8 @@
 0.0.0.0 netflixd.com
 0.0.0.0 netflixh.com
 0.0.0.0 netflixt.com
-0.0.0.0 netflixe.com
 0.0.0.0 netflixl.com
+0.0.0.0 netflix1.com
 0.0.0.0 netflix3.com
 0.0.0.0 netflix4.com
 0.0.0.0 netflix5.com
@@ -25,7 +25,7 @@
 0.0.0.0 netflixp.com
 0.0.0.0 netflixk.com
 0.0.0.0 netflixz.com
-0.0.0.0 netflix1.com
+0.0.0.0 netflixe.com
 0.0.0.0 netflixn.com
 0.0.0.0 netfliz.com
 0.0.0.0 netflax.com
@@ -90,6 +90,7 @@
 0.0.0.0 nhetflix.com
 0.0.0.0 netfplix.com
 0.0.0.0 negtflix.com
+0.0.0.0 netflikx.com
 0.0.0.0 nbetflix.com
 0.0.0.0 ne4tflix.com
 0.0.0.0 net6flix.com
@@ -102,17 +103,15 @@
 0.0.0.0 newtflix.com
 0.0.0.0 netfl9ix.com
 0.0.0.0 netcflix.com
-0.0.0.0 netfliux.com
+0.0.0.0 neztflix.com
 0.0.0.0 netfrlix.com
-0.0.0.0 netflikx.com
 0.0.0.0 mnetflix.com
 0.0.0.0 nertflix.com
 0.0.0.0 netdflix.com
+0.0.0.0 netfliux.com
 0.0.0.0 neftflix.com
 0.0.0.0 netfvlix.com
 0.0.0.0 jnetflix.com
-0.0.0.0 neztflix.com
-0.0.0.0 bnetflix.com
 0.0.0.0 n4etflix.com
 0.0.0.0 ne5tflix.com
 0.0.0.0 ne6tflix.com
@@ -128,6 +127,7 @@
 0.0.0.0 njetflix.com
 0.0.0.0 n3etflix.com
 0.0.0.0 nsetflix.com
+0.0.0.0 bnetflix.com
 0.0.0.0 neflix.com
 0.0.0.0 netfix.com
 0.0.0.0 netflx.com
@@ -156,7 +156,6 @@
 0.0.0.0 netflux.com
 0.0.0.0 nstflix.com
 0.0.0.0 hetflix.com
-0.0.0.0 nztflix.com
 0.0.0.0 netflid.com
 0.0.0.0 n3tflix.com
 0.0.0.0 nefflix.com

@@ -56,10 +56,10 @@
 0.0.0.0 steripe.com
 0.0.0.0 strilpe.com
 0.0.0.0 stipe.com
-0.0.0.0 strie.com
 0.0.0.0 strip.com
 0.0.0.0 strpe.com
 0.0.0.0 sripe.com
+0.0.0.0 strie.com
 0.0.0.0 strippe.com
 0.0.0.0 striipe.com
 0.0.0.0 sstripe.com
@@ -70,12 +70,12 @@
 0.0.0.0 atripe.com
 0.0.0.0 etripe.com
 0.0.0.0 strime.com
-0.0.0.0 stripr.com
 0.0.0.0 str8pe.com
 0.0.0.0 str9pe.com
 0.0.0.0 strip4.com
 0.0.0.0 strupe.com
 0.0.0.0 stripz.com
+0.0.0.0 stripr.com
 0.0.0.0 strile.com
 0.0.0.0 ztripe.com
 0.0.0.0 sttipe.com

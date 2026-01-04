@@ -54,11 +54,11 @@
 0.0.0.0 usops.com
 0.0.0.0 uswps.com
 0.0.0.0 iusps.com
+0.0.0.0 u8sps.com
 0.0.0.0 usp0s.com
 0.0.0.0 usxps.com
 0.0.0.0 usaps.com
 0.0.0.0 uspos.com
-0.0.0.0 u8sps.com
 0.0.0.0 ups.com
 0.0.0.0 uss.com
 0.0.0.0 sps.com

@@ -101,7 +101,6 @@
 0.0.0.0 zber.com
 0.0.0.0 iber.com
 0.0.0.0 ube5.com
-0.0.0.0 ubsr.com
 0.0.0.0 uver.com
 0.0.0.0 ubed.com
 0.0.0.0 jber.com

@@ -64,6 +64,7 @@
 0.0.0.0 quiora.com
 0.0.0.0 qura.com
 0.0.0.0 qora.com
+0.0.0.0 quoa.com
 0.0.0.0 uora.com
 0.0.0.0 quor.com
 0.0.0.0 quorra.com

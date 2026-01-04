@@ -8,8 +8,10 @@
 0.0.0.0 youtuber.com
 0.0.0.0 youtube5.com
 0.0.0.0 youtube8.com
+0.0.0.0 youtube6.com
 0.0.0.0 youtubee.com
 0.0.0.0 youtubeh.com
+0.0.0.0 youtube3.com
 0.0.0.0 youtubeb.com
 0.0.0.0 youtubei.com
 0.0.0.0 youtubej.com
@@ -17,7 +19,6 @@
 0.0.0.0 youtubeo.com
 0.0.0.0 youtubet.com
 0.0.0.0 youtubeu.com
-0.0.0.0 youtube6.com
 0.0.0.0 youtubem.com
 0.0.0.0 youtubep.com
 0.0.0.0 youtube7.com
@@ -43,11 +44,11 @@
 0.0.0.0 youdube.com
 0.0.0.0 youture.com
 0.0.0.0 youtubm.com
+0.0.0.0 youtebe.com
 0.0.0.0 youtufe.com
 0.0.0.0 youtuje.com
 0.0.0.0 youttbe.com
 0.0.0.0 youtubu.com
-0.0.0.0 youtebe.com
 0.0.0.0 youtuba.com
 0.0.0.0 xn--youtbe-sya.com
 0.0.0.0 youtuibe.com
@@ -100,10 +101,10 @@
 0.0.0.0 yojutube.com
 0.0.0.0 yoiutube.com
 0.0.0.0 youtubne.com
-0.0.0.0 youtunbe.com
-0.0.0.0 yuoutube.com
-0.0.0.0 yaoutube.com
 0.0.0.0 y7outube.com
+0.0.0.0 youtunbe.com
+0.0.0.0 yaoutube.com
+0.0.0.0 yuoutube.com
 0.0.0.0 ykoutube.com
 0.0.0.0 yo8utube.com
 0.0.0.0 you6tube.com
@@ -121,8 +122,6 @@
 0.0.0.0 youtu8be.com
 0.0.0.0 ysoutube.com
 0.0.0.0 yoputube.com
-0.0.0.0 you5tube.com
-0.0.0.0 y6outube.com
 0.0.0.0 ygoutube.com
 0.0.0.0 yo7utube.com
 0.0.0.0 yokutube.com
@@ -131,6 +130,9 @@
 0.0.0.0 syoutube.com
 0.0.0.0 yo0utube.com
 0.0.0.0 you8tube.com
+0.0.0.0 youtfube.com
+0.0.0.0 y6outube.com
+0.0.0.0 you5tube.com
 0.0.0.0 yotube.com
 0.0.0.0 outube.com
 0.0.0.0 youtsube.com
@@ -146,6 +148,7 @@
 0.0.0.0 toutube.com
 0.0.0.0 youtjbe.com
 0.0.0.0 yout8be.com
+0.0.0.0 yoytube.com
 0.0.0.0 6outube.com
 0.0.0.0 youtuge.com
 0.0.0.0 youtybe.com
@@ -154,7 +157,6 @@
 0.0.0.0 soutube.com
 0.0.0.0 you5ube.com
 0.0.0.0 youtzbe.com
-0.0.0.0 yoytube.com
 0.0.0.0 youtubs.com
 0.0.0.0 yougube.com
 0.0.0.0 yiutube.com
@@ -168,8 +170,8 @@
 0.0.0.0 goutube.com
 0.0.0.0 youfube.com
 0.0.0.0 youtub4.com
-0.0.0.0 youthbe.com
 0.0.0.0 uoutube.com
+0.0.0.0 youthbe.com
 0.0.0.0 youtubw.com
 0.0.0.0 7outube.com
 0.0.0.0 youzube.com
@@ -187,4 +189,5 @@
 0.0.0.0 yoatube.com
 0.0.0.0 yeutube.com
 0.0.0.0 youtabe.com
+0.0.0.0 youtubo.com
 0.0.0.0 youtobe.com

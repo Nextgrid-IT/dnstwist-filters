@@ -1,4 +1,5 @@
 0.0.0.0 citi.com
+0.0.0.0 citiq.com
 0.0.0.0 citit.com
 0.0.0.0 citib.com
 0.0.0.0 citih.com
@@ -46,7 +47,6 @@
 0.0.0.0 xn--ii-dma76a.com
 0.0.0.0 cit1.com
 0.0.0.0 clti.com
-0.0.0.0 xn--iti-1la.com
 0.0.0.0 xn--ct-njab.com
 0.0.0.0 eit1.com
 0.0.0.0 xn--cti-rma.com

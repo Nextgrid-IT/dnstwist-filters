@@ -44,7 +44,6 @@
 0.0.0.0 microsont.com
 0.0.0.0 mmcrosoft.com
 0.0.0.0 microsofp.com
-0.0.0.0 micro3oft.com
 0.0.0.0 micposoft.com
 0.0.0.0 micbosoft.com
 0.0.0.0 micrmsoft.com
@@ -54,9 +53,9 @@
 0.0.0.0 microsodt.com
 0.0.0.0 micsosoft.com
 0.0.0.0 mikrosoft.com
+0.0.0.0 micro3oft.com
 0.0.0.0 microsogt.com
 0.0.0.0 micvosoft.com
-0.0.0.0 xn--mcrosoft-1ud.com
 0.0.0.0 mnicrosoft.com
 0.0.0.0 xn--mcrosoft-c2a.com
 0.0.0.0 mlcros0ft.com
@@ -210,6 +209,7 @@
 0.0.0.0 mucrosoft.com
 0.0.0.0 microsofz.com
 0.0.0.0 micrlsoft.com
+0.0.0.0 microsoct.com
 0.0.0.0 midrosoft.com
 0.0.0.0 microsofy.com
 0.0.0.0 micrpsoft.com

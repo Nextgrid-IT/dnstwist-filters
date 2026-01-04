@@ -38,6 +38,7 @@
 0.0.0.0 xn--coibase-mkb.com
 0.0.0.0 xn--coibase-r13c.com
 0.0.0.0 xn--coinbse-t4a.com
+0.0.0.0 xn--coinase-1yb.com
 0.0.0.0 xn--conbase-gw4c.com
 0.0.0.0 colnbase.com
 0.0.0.0 xn--coinbas-xs4c.com
@@ -45,8 +46,6 @@
 0.0.0.0 xn--conbse-sta7g.com
 0.0.0.0 xn--cnbase-3va1c.com
 0.0.0.0 xn--oinbase-ux1c.com
-0.0.0.0 xn--coinase-1yb.com
-0.0.0.0 xn--cinbase-l0a.com
 0.0.0.0 xn--conbase-ww4c.com
 0.0.0.0 colmbase.com
 0.0.0.0 xn--coinae-sg7b74a.com
@@ -190,8 +189,8 @@
 0.0.0.0 dcoinbase.com
 0.0.0.0 fcoinbase.com
 0.0.0.0 xcoinbase.com
-0.0.0.0 coinase.com
 0.0.0.0 conbase.com
+0.0.0.0 coinase.com
 0.0.0.0 cinbase.com
 0.0.0.0 coibase.com
 0.0.0.0 oinbase.com

@@ -12,6 +12,7 @@
 0.0.0.0 teams.microsoftf.com
 0.0.0.0 teams.microsoft2.com
 0.0.0.0 teams.microsoftt.com
+0.0.0.0 teams.microsoftz.com
 0.0.0.0 teams.mkcrosoft.com
 0.0.0.0 teams.microsovt.com
 0.0.0.0 teams.misrosoft.com
@@ -41,6 +42,7 @@
 0.0.0.0 teams.m1crosoft.com
 0.0.0.0 teams.rricrosoft.com
 0.0.0.0 teams.xn--microsft-5rb.com
+0.0.0.0 teams.xn--microsft-380d.com
 0.0.0.0 teams.xn--micrsoft-q4a.com
 0.0.0.0 teams.xn--mcrosoft-c2a.com
 0.0.0.0 teams.xn--mirosoft-t0a.com
@@ -64,9 +66,6 @@
 0.0.0.0 teams.micro9soft.com
 0.0.0.0 teams.micrfosoft.com
 0.0.0.0 teams.microseoft.com
-0.0.0.0 teams.microdsoft.com
-0.0.0.0 teams.microisoft.com
-0.0.0.0 teams.micropsoft.com
 0.0.0.0 teams.microsovft.com
 0.0.0.0 teams.microysoft.com
 0.0.0.0 teams.lmicrosoft.com
@@ -91,6 +90,9 @@
 0.0.0.0 teams.mijcrosoft.com
 0.0.0.0 teams.microsofct.com
 0.0.0.0 teams.microsofvt.com
+0.0.0.0 teams.microdsoft.com
+0.0.0.0 teams.microisoft.com
+0.0.0.0 teams.micropsoft.com
 0.0.0.0 teams.micfrosoft.com
 0.0.0.0 teams.micvrosoft.com
 0.0.0.0 teams.micosoft.com
@@ -110,14 +112,14 @@
 0.0.0.0 teams.mocrosoft.com
 0.0.0.0 teams.microaoft.com
 0.0.0.0 teams.mucrosoft.com
-0.0.0.0 teams.micrlsoft.com
-0.0.0.0 teams.microsoct.com
-0.0.0.0 teams.midrosoft.com
 0.0.0.0 teams.microsofy.com
 0.0.0.0 teams.micrpsoft.com
 0.0.0.0 teams.microslft.com
 0.0.0.0 teams.mic5osoft.com
 0.0.0.0 teams.microzoft.com
+0.0.0.0 teams.micrlsoft.com
+0.0.0.0 teams.microsoct.com
+0.0.0.0 teams.midrosoft.com
 0.0.0.0 teams.microyoft.com
 0.0.0.0 teams.mic.rosoft.com
 0.0.0.0 teams.micr.osoft.com
@@ -125,9 +127,9 @@
 0.0.0.0 teams.micro.soft.com
 0.0.0.0 teams.micrsooft.com
 0.0.0.0 teams.microosft.com
-0.0.0.0 teams.micorsoft.com
 0.0.0.0 teams.mcirosoft.com
 0.0.0.0 teams.imcrosoft.com
+0.0.0.0 teams.micorsoft.com
 0.0.0.0 teamsmicrosoft.com
 0.0.0.0 teams-microsoft.com
 0.0.0.0 teams.micresoft.com
